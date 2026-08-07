@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T13:27:25.353493+08:00",
+  "updated": "2026-08-07T13:29:50.700588+08:00",
   "indicators": {
     "usd_hkd": {
       "ticker": "HKD=X",
@@ -10,7 +10,7 @@
     },
     "chinext": {
       "ticker": "399006.SZ",
-      "price": 3600.291,
+      "price": 3588.8003,
       "change_pct": null,
       "interpretation": "內資情緒領先指標",
       "signal": "unknown"
@@ -29,8 +29,8 @@
     },
     "dxy": {
       "ticker": "DX-Y.NYB",
-      "price": 99.944,
-      "change_pct": -0.03,
+      "price": 99.948,
+      "change_pct": -0.02,
       "interpretation": "美元指數",
       "signal": "neutral"
     },
@@ -43,7 +43,7 @@
     },
     "usd_cnh": {
       "ticker": "CNH=X",
-      "price": 6.7464,
+      "price": 6.7465,
       "change_pct": null,
       "interpretation": "離岸人民幣",
       "signal": "unknown"
