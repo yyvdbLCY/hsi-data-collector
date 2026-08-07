@@ -1,0 +1,37 @@
+name: analyst-ratings
+
+on:
+  workflow_dispatch:        # 手動觸發
+  repository_dispatch:      # cron-job.org / 用戶觸發
+    types: [analyst-ratings]
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run analyst_ratings crawler
+        run: python crawlers/analyst_ratings.py
+
+      - name: Commit & push cache
+        run: |
+          git config user.email "136291581+yyvdbLCY@users.noreply.github.com"
+          git config user.name "yyvdbLCY"
+          git add cache/analyst_ratings.json
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data: update analyst_ratings cache [skip ci]"
+            git push
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,37 @@
+name: economic-calendar
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [economic-calendar]
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run economic_calendar crawler
+        run: python crawlers/economic_calendar.py
+
+      - name: Commit & push cache
+        run: |
+          git config user.email "136291581+yyvdbLCY@users.noreply.github.com"
+          git config user.name "yyvdbLCY"
+          git add cache/economic_calendar.json
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data: update economic_calendar cache [skip ci]"
+            git push
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
