@@ -33,6 +33,7 @@ jobs:
             echo "no changes"
           else
             git commit -m "data: update macro_indicators cache [skip ci]"
+            git pull --rebase origin main
             git push
           fi
         env:
