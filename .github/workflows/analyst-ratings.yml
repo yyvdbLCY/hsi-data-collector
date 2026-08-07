@@ -33,8 +33,15 @@ jobs:
             echo "no changes"
           else
             git commit -m "data: update analyst_ratings cache [skip ci]"
-            git pull --rebase origin main
-            git push
+            # Retry push 3 次避免 race condition (4 個 workflow 同時跑會搶 ref lock)
+            for i in 1 2 3 4 5; do
+              if git pull --rebase origin main && git push; then
+                echo "push ok (attempt $i)"
+                break
+              fi
+              echo "push failed (attempt $i), retry in $((i*2))s..."
+              sleep $((i*2))
+            done
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
