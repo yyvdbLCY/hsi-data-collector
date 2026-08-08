@@ -1,0 +1,52 @@
+name: master-trigger
+
+on:
+  workflow_dispatch:        # 手動觸發
+  repository_dispatch:      # cron-job.org 觸發
+    types: [master-crawl]
+
+jobs:
+  trigger-all:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read  # 只要讀 repo 即可
+    steps:
+      - name: Trigger macro-indicators
+        run: |
+          curl -sS -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/yyvdbLCY/hsi-data-collector/dispatches" \
+            -d '{"event_type": "macro-indicators"}' \
+            -w "  macro-indicators: HTTP %{http_code}\n"
+
+      - name: Trigger analyst-ratings
+        run: |
+          curl -sS -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/yyvdbLCY/hsi-data-collector/dispatches" \
+            -d '{"event_type": "analyst-ratings"}' \
+            -w "  analyst-ratings: HTTP %{http_code}\n"
+
+      - name: Trigger economic-calendar
+        run: |
+          curl -sS -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/yyvdbLCY/hsi-data-collector/dispatches" \
+            -d '{"event_type": "economic-calendar"}' \
+            -w "  economic-calendar: HTTP %{http_code}\n"
+
+      - name: Trigger ticker-news
+        run: |
+          curl -sS -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/yyvdbLCY/hsi-data-collector/dispatches" \
+            -d '{"event_type": "ticker-news"}' \
+            -w "  ticker-news: HTTP %{http_code}\n"
+
+      - name: Done
+        run: echo "✅ master-trigger: 4 個 workflow 都已觸發,實際 cache 更新要等他們跑完"
