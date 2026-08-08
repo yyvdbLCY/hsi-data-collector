@@ -49,4 +49,5 @@ jobs:
             -w "  ticker-news: HTTP %{http_code}\n"
 
       - name: Done
-        run: echo "✅ master-trigger: 4 個 workflow 都已觸發,實際 cache 更新要等他們跑完"
+        run: |
+          echo "master-trigger: 4 workflows triggered, cache update pending"
