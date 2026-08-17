@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:01:16.169770+08:00",
+  "updated": "2026-08-17T12:01:11.944523+08:00",
   "news": {
     "0005.HK": {
       "name": "匯豐控股",
@@ -29,10 +29,10 @@
           "source": "富途牛牛"
         },
         {
-          "title": "00005 滙豐控股 - etnet 經濟通",
+          "title": "00005 滙豐控股 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaSGZzVmFyX3NwUERybDFCLWEtbWFkNGhwT21acmNORWZMbEw3cWpyOE4tOUF3bm50TFh6TGo1cTVNQkV4SkxkRTlOSWV2d1JlSVUyWHdld3AxSTVrU29QSlNjazJTMkxUSEhLN3BCckRYYjRpZ1MzMQ?oc=5",
           "published": "Tue, 29 Aug 2023 12:36:08 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
           "title": "Cisco rating cut at HSBC as analyst sees a lack of catalysts",
@@ -135,10 +135,10 @@
           "source": "news.cnyes.com"
         },
         {
-          "title": "01398 工商銀行 - etnet 經濟通",
+          "title": "01398 工商銀行 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GUnNBSkM5ODM4UU9fNUFoY3B3bHY4T3U4WmdTTjBGWm5aazd0MzJxNXFtTl9xUTZoT3NSOFEzejVuc1RRNmJ4U3NZaFNleW5aZTBXMGhlQmpfNnRrX0lHMGJwOGRPRjZGS2VkTXl0RkhIc0FOWFhQNQ?oc=5",
           "published": "Thu, 31 Aug 2023 12:32:30 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
           "title": "Industrial And Commercial Bank Of China (SEHK:1398) Tests Repo Based Loans, Is The Stock Still Cheap?",
@@ -188,10 +188,10 @@
           "source": "BusinessFocus"
         },
         {
-          "title": "港股設8種每手股數 每手門檻降至一千元 - wenweipo.com",
+          "title": "港股設8種每手股數 每手門檻降至一千元 - 香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PRTlibTVBM2FuaXZvLXNxa1hnY1FiV1g3ZWljYmU0c05xa05WZlVHM191UUN3eDN3ZjNsNmx6dDRwUml2NjRxZFpId2RLVVh3cXVxRUp3RHlfWE9NZ1RkQ19nY0FQSGRtOW8tcHJZaWpPUHZEYUtvaVE1emc?oc=5",
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "wenweipo.com"
+          "source": "香港文匯報"
         },
         {
           "title": "DayOne Appoints Nicolas Aguzin to Board of Directors, Strengthening Global Governance and Capital Markets Expertise",
@@ -217,16 +217,10 @@
       "name": "中國移動",
       "items": [
         {
-          "title": "00941 中國移動 - etnet 經濟通",
+          "title": "00941 中國移動 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zWi1PQ1k0SVpxUUJkOXdiTFRBUV9iMWRDS1lFdFA5RDh5dm9iYXFjV0d5b0M2SnpDZjRYWE9ydWVXLS1PZlRRT2ZXMk1seHhISFUtanBqMlU5VlVIX3dWQ0tldWxTV3NBMnVZUEEtZ1dONkU3a1BJeA?oc=5",
           "published": "Sat, 19 Aug 2023 12:52:27 GMT",
-          "source": "etnet 經濟通"
-        },
-        {
-          "title": "0941 | China Mobile Ltd股市 - Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyM0QzT2U5c1BHWUxwQmU1LUVhMFB5bzdmVHdOM0tWb0tPbVU1MzdPZ2oyS29YbjdGRi1salpuLXk1eDVHQlRZbGxWengyNzc4bXVueGRCR3o3UQ?oc=5",
-          "published": "Sun, 08 Jan 2017 11:20:07 GMT",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞"
+          "source": "etnet.com.hk"
         },
         {
           "title": "中移動已取得香港寬頻七成股權 市場消息：無意私有化 - 香港01",
@@ -235,9 +229,15 @@
           "source": "香港01"
         },
         {
-          "title": "中移動加大AI領域總投入 目標3年內翻倍 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQTy1pOHdHWldsV2p0b0pFZlRDYnNmQWFYZkdBOG1RTEV0YWRIMlc3NS1fQjJvOFg3Q2VkM1JCMklmUGtuVHVFdm56NDV3VlRkV0dUeGNlMHZEcEFwVXNlUnIteTlxYjZwRmhoLWFoQWFVb0NNeVJEYWhXb0RDemo2Q1o2emFGYUE2Z1FkVVFIVmFRVy1peG9UbGdzVnBzYzZWanpJdG5yODl6d1VXNjlkMlB4VTJadG9yYkdGYndqMXJ6eE9UT0FZZW5PWDBEWjJ0NkVzWnhiUUNhUjFna2N5NWNNeDhNd2c2VktVWTBwb3RHeV9pTjVub3FTU3NfM0xQejdDakM5NFVHLWNHeUZVWF90ZDZONDBCSHNDYlA5ak9oUTBQekFmNWQ5akg?oc=5",
-          "published": "Sat, 11 Oct 2025 07:00:00 GMT",
+          "title": "0941 | China Mobile Ltd股市 - Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyM0QzT2U5c1BHWUxwQmU1LUVhMFB5bzdmVHdOM0tWb0tPbVU1MzdPZ2oyS29YbjdGRi1salpuLXk1eDVHQlRZbGxWengyNzc4bXVueGRCR3o3UQ?oc=5",
+          "published": "Sun, 08 Jan 2017 11:20:07 GMT",
+          "source": "Investing.com 香港 - 股市報價& 財經新聞"
+        },
+        {
+          "title": "建滔張國榮料恒指年底前升至30000點 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPU19nV3VOR1ZZV1N6ZGtiazBTTHJpR2NWVHZJNmFnQVc3NnE2bllOZmlkUWc3UUdibXRqS1dCcG15V183bllPckNOa1Y5RkNwQWdIUG5MMzZRTTU0cm5ILWt5ZE5kc0FWNjJpdkVlNFNNMlRlbWIxc3UwSzhwdVdOenZVUGRWaXdOVW4tcjNKOGk0Qjh5V01USHVrLWpLOVRsdTFHa2Q1anBCMUJNOTdQNzkydmVVQTNXZ3R2alVOajViMmdieDBhQ2J4OUVjeWV3ejJQdVUxSndTakhMejA0Qi1fYzI2Vm5jbWFOeVZ5VkRPczVSMGF2RktPR2lDMHJBTGNsRkJsVG8zMi1kdHN4V3N6SFJDOS1SNHBoLXctTmpZaFYxVXBJSkh6Wlo3dnFHbmRxTWFLNDFzOHEzLXhlVG05d0czZlNaNFpsek5LcGxxUQ?oc=5",
+          "published": "Mon, 25 Aug 2025 07:00:00 GMT",
           "source": "Yahoo 財經"
         },
         {
@@ -247,15 +247,15 @@
           "source": "华尔街日报中文网"
         },
         {
-          "title": "Zhu Rongji, Chinese Premier Who Overhauled Economy, Dies at 98",
-          "link": "https://finance.yahoo.com/economy/articles/zhu-rongji-chinese-premier-overhauled-101001538.html?.tsrc=rss",
-          "published": "Wed, 12 Aug 2026 10:10:01 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Jack Ma-Backed OceanBase Seeks Up to $443 Million for AI Push",
           "link": "https://finance.yahoo.com/technology/ai/articles/jack-ma-backed-oceanbase-seeks-020218977.html?.tsrc=rss",
           "published": "Wed, 29 Jul 2026 02:02:18 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Zhu Rongji, Chinese Premier Who Overhauled Economy, Dies at 98",
+          "link": "https://finance.yahoo.com/economy/articles/zhu-rongji-chinese-premier-overhauled-101001538.html?.tsrc=rss",
+          "published": "Wed, 12 Aug 2026 10:10:01 +0000",
           "source": "Yahoo Finance"
         },
         {
@@ -323,10 +323,10 @@
       "name": "中國石油",
       "items": [
         {
-          "title": "中國石油天然氣股份 | 0857.HK 股價走勢與即時報價 - BigGo 財經",
+          "title": "中國石油天然氣股份 | 0857.HK 股價走勢與即時報價 - finance.biggo.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHZTVrYy1iaGw0dVJ0ejUzRU9xb1NOMFc1WmRDQVlDXzhRWUFHOENwc2VQanFKbTBZR1VrUERod29TNU9jdGR4TlFLMFVWMW9zYjlqUA?oc=5",
           "published": "Wed, 12 Aug 2026 15:24:22 GMT",
-          "source": "BigGo 財經"
+          "source": "finance.biggo.com.tw"
         },
         {
           "title": "香港能源股隨油價因伊朗衝突而上漲 - Yahoo 財經",
@@ -341,16 +341,16 @@
           "source": "CMoney"
         },
         {
-          "title": "00857 中國石油股份 - etnet 經濟通",
+          "title": "00857 中國石油股份 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41SW96dXFaR2VZejRERjhNcndfTUZua2phbFhiWFpydjByeDBHbXIyNkxJT2kwQXlnNUVzUi1oWlR4OVFSOWFZQ2pGLXZNZk9SNVFoWUxXTVVaVE51Z0F6RU9qeFdwalZxVTNKcnFYZFZ0My1oNllvSA?oc=5",
           "published": "Tue, 15 Aug 2023 00:47:02 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
-          "title": "【港股專家】聶振邦：不受市差影響，中石油（0857）值留意 - capital-hk.com",
+          "title": "【港股專家】聶振邦：不受市差影響，中石油（0857）值留意 - Capital 資本平台",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWExkVTF5VDRlbDZVUHRuZlk4eldwa2xRN0RYZXJNSUtqMFNfeGlrQWxENjNadUk0NXV6T0Z4eHN6bjRBcjUtbkZFWWZqeU5adU5haVV6dUZSb2lfYkJwYmZadmp3QVoxMlNITWhzd2FyTDk3MHhjaGV3Q2pKd2Q3ZURlRUl5eHNmMTZibGJsUGxoYU9WaVVpQTFsdnZkbDZMbVl3MHNMNGt0T0ZjRzJIZ1VEQ0xmdGItcFdlRjBXbXIxNzhlVGZETFdTdlJ0Wkh0WlhOQTYyNWRUV3UzNXBqU2gybVd1WS10ZmtORDZsS0RhOWdSeHZqd0xlcVdBMjdlcDZQSFNMaVVURHRyZDRlbmJNTTc?oc=5",
           "published": "Tue, 18 Sep 2018 07:00:00 GMT",
-          "source": "capital-hk.com"
+          "source": "Capital 資本平台"
         },
         {
           "title": "Chinese refiner Hengli accused of funding Iran through sanctioned oil purchases",
@@ -388,22 +388,22 @@
           "source": "TradingView"
         },
         {
-          "title": "中國人壽(2628 HK):中國領先的專業壽險企業 - capital-hk.com",
+          "title": "2628業績｜國壽第三季純利大增逾九成首三季新業務價值升42% 擬出資20億人幣認購基金投資半導體 - 香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxQNnRfTGREVnZZWjJCelN1RkI3alh3Q215Q3dkZ3BLSDVneklsa056VUsza0ZoODl3ZHNIWExFbHNOa1QtcHQtRzVudnN3YVVVaFZxUGt0TDdlYk0tT3NjbEl5RUlKS0d3T296Ujk4Mmh3NGRwNnVTV2wzWUVSSzhZVll6czJzcHJfQjdrYi01WE9ocnlfR2U0TS05MWoteU5QQkFXRG1lYzVGVE41VFl5YngyaEhvdHJlNFplV09nU19td2M3MkJBVG9DMEd2dnUtc3ZpOHY5dmhaNmNOaE5OTWRPMUw2YjFKN3dCTXZXTDRQbEMxWHMzYS1URXAtNkRXQmxxTFZKZUtOOFd3R3JLQlVOdWtJNzd0ajJJTUJqeGdTampxQnREazJjSVllTzlOOWFORVVrMGZ3Q3VxdHNTb283c1lldkNmN0ZZVDloMlZTSnJ0Qm9nb2U4M1hkR2lFcjdJYkh1a3hzcWllQmV2UHJpT2lkZ0Y5Y2NrMmk2MnBwQjZNcUZ2NlNtaDhKTUhzWkJQbmRKOHVxeXZEdXZqeUlXeVNUZUE4SzEwMzBQUWwzRkdYWnhEOUY1UHVwQl81UmZ6SHVxY0VJM2M4OWVMRUIwNDl0WkxNVko5MzlKYmhtS0VaVkxwSlZhMUE3c0NXNHFWaFd1dUFmdGVZdmhLQ0UzWWNrZVRFN3hGbG82R25pX05fYTVYZlZxM0xLU09mUlhsdVVCUzFkYWwtQ2NETUpXQThKaGd6dlU4Mml4ZmdMVGVzeWVFMw?oc=5",
+          "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+          "source": "香港經濟日報HKET"
+        },
+        {
+          "title": "中國人壽(2628 HK):中國領先的專業壽險企業 - Capital 資本平台",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNc0tldlBwTURTRjNLbXBJYnJBVHB6UWdiZ2lNR1dOUnp4WmVoY2d0Mi1CS180SHpFczRoZ1Nsbk9QSXQ2VTA4MnBGV1VpbWpYM1dMRHU1R21EcFBmU0ZVZ0FiRDNORjdSUTl4ODUwWlpiNjk4eHozbmpFNUhLOS14c2MtM1ZHdEVzWWM2dXpOZmk5UHhWeTZkRXJTRnZUUDRiUnh6VkN0VGJ1ekJuYTRRZzlXRE91N1BnT3NMSFl2ajNxaWdOZTB2REhiWEY4WGZxYzRHTFJndzNfaHZuOGI5NHVna3JkS3RGQnA1WXJjWHYzQXNxZGNHYXM2ckJZRGFfUnduOU9JVQ?oc=5",
           "published": "Mon, 02 Sep 2024 20:21:28 GMT",
-          "source": "capital-hk.com"
+          "source": "Capital 資本平台"
         },
         {
           "title": "Why the Smart Money Is Bullish on China’s Insurers - Barron's",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGFvaWdfbUZKV3ZuYkhuUXJYb2JsSFh2RG5icnRPS0NRR244NnZZUENUUUtuSndjUXItRlltb1Zyc3pablJNVWkxaW5HbklOMnFzNlhldXZwNkVCVVhMRHZJYkJXdWVnSkVOMWdzNnJVRkNRRGFUbDgzdHEyVjBJQzFTTWpZMUFNOHhhUFUwejc0dGdsc1JCSg?oc=5",
           "published": "Thu, 04 Jun 2015 07:00:00 GMT",
           "source": "Barron's"
-        },
-        {
-          "title": "中國平安好於同行的表現或難以維持 - 华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ2VDMW81dVpENDJ5MTdLbnhCSVVzdkJzR0RQb29OMjJmMnoxaklXWm9zbUNNd085a2dMZ0tKd2d5U2dFRmdpZHY0MHVuTV9kLXB3VjVhZndHOXpkSlRlbFRNcWEzWlVyZjBlYU8yVjQ1NzFlZldnVFZUcExnY2s4RVVUOUFrSjdlMnVER2lFYy10X1JtS2FNYnRqU24yQ3dva0NfaWFBbFV0RXRIcExnX3RKRjJ2WUdYM2FWZnNNUWY4UkhQcnRxTVp1dTY0c3hsWENrazdyZlRDWm54VUVQamx0LXVybTRVazU1bmE3RHJ1V0tGY1BGa3RXUlVRdXNjTGpfZDJhVGJvcDBMR1lTRG9MRQ?oc=5",
-          "published": "Wed, 27 Apr 2016 07:00:00 GMT",
-          "source": "华尔街日报中文网"
         },
         {
           "title": "Matthews China Fund's Strategic Moves: Spotlight on China Life Insurance Co Ltd",
@@ -459,15 +459,21 @@
           "source": "华尔街日报中文网"
         },
         {
-          "title": "Visa Enables Apple Pay Support for Chinese Visa Cardholders",
-          "link": "https://finance.yahoo.com/news/visa-enables-apple-pay-support-180854851.html?.tsrc=rss",
-          "published": "Thu, 22 Jan 2026 18:08:54 +0000",
+          "title": "Industrial And Commercial Bank Of China (SEHK:1398) Tests Repo Based Loans, Is The Stock Still Cheap?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/industrial-commercial-bank-china-sehk-200841140.html?.tsrc=rss",
+          "published": "Wed, 29 Jul 2026 20:08:41 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Thunes and UnionPay International Launch Instant Money Transfers to China's mainland",
-          "link": "https://finance.yahoo.com/news/thunes-unionpay-international-launch-instant-080000262.html?.tsrc=rss",
-          "published": "Thu, 22 Jan 2026 08:00:00 +0000",
+          "title": "China's Biggest Banks Launch First Repo-Linked Loans as Lending Rules Evolve",
+          "link": "https://finance.yahoo.com/economy/policy/articles/chinas-biggest-banks-launch-first-130800273.html?.tsrc=rss",
+          "published": "Mon, 27 Jul 2026 13:08:00 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Visa Enables Apple Pay Support for Chinese Visa Cardholders",
+          "link": "https://finance.yahoo.com/news/visa-enables-apple-pay-support-180854851.html?.tsrc=rss",
+          "published": "Thu, 22 Jan 2026 18:08:54 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -500,10 +506,10 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "騰訊控股(0700.HK)：主業穩中有升 AI賦能取得顯著進展 - 富途牛牛",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXVhc2hSVEJkYldJN1hxWUNVS2FjTWlXRFVqUjFjdGRhVy1QQWdWQTUxY19PM3g4aUFQYkJIbjY5NFRVOEdwMGZEeENzMEp3dHhnMU5SYVRodTlFLW9SdU9JMmJ0dW83Q0lyVjIyLWNNaDV3M2lENEt3OHlfdm1zUW5kZXBDMFk5bkVwODlCNF9hdVBUT2ZPQU82TGtHMFFVQ25pMkFab09Jdw?oc=5",
-          "published": "Fri, 14 Aug 2026 13:52:00 GMT",
-          "source": "富途牛牛"
+          "title": "0700.HK 港股報價| 騰訊控股| TENCENT | 香港即時股票股價 - etnet.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QM000aFQxSDZRVE42R2V2TVJaQk0tTkpaRGp0WEQzYkJJVko4R3QyRUtXc0FqVnNoX0ZpRDZsa0JMajJWR1RwNjFDcDhBdHkxckxjVGJHUE11ZXpmN0I0M0g3UDBaNlh6Rl9YNnVwQ1lZYW16d2c?oc=5",
+          "published": "Thu, 30 Nov 2023 03:35:43 GMT",
+          "source": "etnet.com.hk"
         },
         {
           "title": "Tencent Details Progress Toward Carbon Neutrality Goals and Outlines AI-Era Priorities",
@@ -559,21 +565,21 @@
           "source": "Finance730"
         },
         {
-          "title": "NVIDIA to Post Q4 Earnings: Buy, Hold, or Take Profits?",
-          "link": "https://finance.yahoo.com/news/nvidia-post-q4-earnings-buy-200000382.html?.tsrc=rss",
-          "published": "Fri, 20 Feb 2026 20:00:00 +0000",
+          "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
+          "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
+          "published": "Mon, 17 Aug 2026 03:06:02 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Alibaba Group Holding Limited (BABA) Faces Analyst Downgrade, Counters with Queen3.5 AI Launch",
-          "link": "https://finance.yahoo.com/news/alibaba-group-holding-limited-baba-165459325.html?.tsrc=rss",
-          "published": "Fri, 20 Feb 2026 16:54:59 +0000",
+          "title": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
+          "link": "https://247wallst.com/investing/2026/08/16/billionaire-investor-david-tepper-just-exited-12-stocks-these-5-are-the-most-surprising/?.tsrc=rss",
+          "published": "Sun, 16 Aug 2026 21:43:51 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Zhipu Surges 43% as China AI Stocks Outpace Alibaba, Tencent",
-          "link": "https://finance.yahoo.com/news/zhipu-surges-43-china-ai-150152406.html?.tsrc=rss",
-          "published": "Fri, 20 Feb 2026 15:01:52 +0000",
+          "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+          "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html?.tsrc=rss",
+          "published": "Sat, 15 Aug 2026 09:16:06 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -665,21 +671,21 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Americans Can’t Buy Chinese EVs. Waymo Is Importing Thousands",
+          "link": "https://www.forbes.com/sites/alanohnsman/2026/08/02/americans-cant-buy-chinese-evs-waymo-is-importing-thousands/?.tsrc=rss",
+          "published": "Sun, 02 Aug 2026 10:30:00 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Global Smartphone Sales Fall By Six Percent Amid Memory Cost Crisis",
+          "link": "https://www.engadget.com/2227239/global-smartphone-sales-fall-six-percent-amid-ram-crisis/?.tsrc=rss",
+          "published": "Thu, 30 Jul 2026 17:40:53 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
           "link": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html?.tsrc=rss",
           "published": "Sun, 16 Aug 2026 16:30:00 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Waymo doubles down on the cars America won’t let you buy",
-          "link": "https://www.thestreet.com/automotive/waymo-doubles-down-on-chinese-evs-america-wont-let-you-buy?.tsrc=rss",
-          "published": "Fri, 14 Aug 2026 19:37:00 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Tesla's Model Y Loses China's Top Spot to Geely",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-loses-chinas-131417175.html?.tsrc=rss",
-          "published": "Wed, 12 Aug 2026 13:14:17 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -830,15 +836,15 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Ping An Ranks 48th on 2026 Fortune Global 500 List, Marking 17th Consecutive Year on List",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ping-ranks-48th-2026-fortune-073200371.html?.tsrc=rss",
-          "published": "Wed, 29 Jul 2026 07:32:00 +0000",
+          "title": "Are Investors Undervaluing CNO Financial Group (CNO) Right Now?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-cno-financial-group-134003775.html?.tsrc=rss",
+          "published": "Mon, 10 Aug 2026 13:40:03 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Ping An Unveils Innovative AI Solutions in Healthcare, Insurance and Payments at WAIC 2026",
-          "link": "https://finance.yahoo.com/healthcare/articles/ping-unveils-innovative-ai-solutions-055000388.html?.tsrc=rss",
-          "published": "Tue, 21 Jul 2026 05:50:00 +0000",
+          "title": "Ping An Group Upgrades Longevity Management Service System, Unveils 11 Health Longevity Centers Nationwide",
+          "link": "https://finance.yahoo.com/healthcare/articles/ping-group-upgrades-longevity-management-101900717.html?.tsrc=rss",
+          "published": "Thu, 30 Jul 2026 10:19:00 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -859,10 +865,10 @@
           "source": "香港財經時報HKBT"
         },
         {
-          "title": "01211 比亞迪股份 - etnet 經濟通",
+          "title": "01211 比亞迪股份 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYQXEzSXF0Wm1VemRLMU8xM3ppZlBZbjgtMGNjNzkxYUdUSVZYU3dyQUs4SnljVmkxQlo4TWxVb0FEQXJ5Ymc0SG02OVktUmhvMjY4TEl6OVBWS01WLUpxN1ZNSVd3S1R4WlJfVjVIMFlOUS1Wc1FCWg?oc=5",
           "published": "Tue, 29 Aug 2023 04:36:55 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
           "title": "1211｜比亞迪擬「1拆3」股價曾升6%挑戰400關 大摩：有利擴闊投資者基礎 入場費曾逾20萬 - 香港經濟日報HKET",
@@ -877,21 +883,21 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
-          "link": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html?.tsrc=rss",
-          "published": "Sun, 16 Aug 2026 16:30:00 +0000",
+          "title": "BYD Sets Export Record. Nio, XPeng, and Li Auto Stocks Suffer",
+          "link": "https://finance.yahoo.com/m/eefd0b89-ef56-3383-84ec-d28dfd87077b/byd-sets-export-record.-nio%2C.html?.tsrc=rss",
+          "published": "Mon, 03 Aug 2026 20:43:00 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "1 Profitable Stock with Exciting Potential and 2 We Question",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-exciting-potential-150100032.html?.tsrc=rss",
-          "published": "Sun, 16 Aug 2026 15:01:00 +0000",
+          "title": "BYD (SEHK:1211) Reports Third Straight Month Of Higher July NEV Sales And Output",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/byd-sehk-1211-reports-third-200827664.html?.tsrc=rss",
+          "published": "Mon, 03 Aug 2026 20:08:27 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "China plans faster rollout of renewable-energy recycling rules - CCTV",
-          "link": "https://finance.yahoo.com/energy/articles/china-plans-faster-rollout-renewable-065633535.html?.tsrc=rss",
-          "published": "Sun, 16 Aug 2026 06:56:33 +0000",
+          "title": "BYD (SEHK:1211) Stock Looks Above Fair Value As Shares Fell 17%",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/byd-sehk-1211-stock-looks-190912271.html?.tsrc=rss",
+          "published": "Mon, 03 Aug 2026 19:09:12 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -900,10 +906,10 @@
       "name": "紫金礦業",
       "items": [
         {
-          "title": "02899 紫金礦業 - etnet 經濟通",
+          "title": "02899 紫金礦業 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HdTNUNFZQNVV6LVRtajRXb0dQbTZuR1VQbDZCdjhrUlhKeEktTHF3QWtSdnhSQl81Z3JoUzhNXzdPNkttcTNVSEloYjhjZ2ZaQVk2N0RsOXBXbkZDTVlGYmdtQ2tDd3lrQ2o4NnBUbnJSM1cycXlJ?oc=5",
           "published": "Wed, 29 Nov 2023 23:29:19 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
           "title": "紫金礦業股價因計劃收購加拿大Allied Gold創歷史新高 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
