@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:01:12.825655+08:00",
+  "updated": "2026-08-24T16:01:17.582196+08:00",
   "news": {
     "0005.HK": {
       "name": "匯豐控股",
@@ -500,9 +500,9 @@
           "source": "富途牛牛"
         },
         {
-          "title": "騰訊(00700.HK)斥約5億回購111.3萬股 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzZtaVVKMXVZcUsxWkhCNUdsSlZQdWtLdUR3ekVjb2tDM2JUMUN2VmVCdHpnc09lajNiSTh1bUk2NnZ5cFpxZ2dTRjJpOTVqek9BSEN1dm96ZGhwdnJZSU9DdVllN2d2UDRuajRzWTZRMGQ5VGI2ZXhVTS1YTkl3QzREWW5ZMjdVa2RWY3VxQkJKaFdpQm1iaGRYTXVVMDRaNGd6cGVfcWlySld3UUlKakNSLVZjQUx5eHB1Z0hXOXhTVERzamJRRzRueXNWNnByU2Jhb0hjN1ZqZw?oc=5",
-          "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+          "title": "財經｜恒指最新跌幅破1000點 騰訊(00700)跌逾15% - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNm1NT25MVTZKQ3llZlV6LWJJZWtONlpLZlc3T3RESURjOEd4U2RGcjM2Yi1zMWN0VmFQVXYwR1k4NF9NVk8tYUgycE5yT0ZRcEVBcEliejZxR1FfeVFlcHN2b2dpV3ktYVl5cGZQeHZoMDc4clFmbk8teGJNY0pCSlRqRGYzQi1CTm0xNDRNX1BEMmpSTGFpVkZfX2VfbHg2ellnQ1VwNXNqOV9Qd2FwVXpoZWR5bXhWYzQ3UGZHTk1NRGFkektRWVVvbl9FWm0wTFViaDdiY1NROTNDcWZrU0h1NDd4Q3lWMXY5c1U5bkQxeG9QSVJqU2c2akg2bFFCcDlkNjd2dFFaV1ZIbVowX01ubXl5UU90ekE?oc=5",
+          "published": "Sun, 22 Mar 2026 07:00:00 GMT",
           "source": "Yahoo 財經"
         },
         {
@@ -582,16 +582,16 @@
       "name": "美團",
       "items": [
         {
-          "title": "美團（3690）盈利插水股價卻反彈？｜ 究竟真金不怕洪爐火 還是曇花一現？ - Esquire Hong Kong",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjkzcTJtS3hocVgtVlNTVlctSG5TRGRkTmNMUnFrd3RwZ2xCZlNvZUl1djZWNmx6V0sxdkpGallUWlRNSlVBaEVzN0xBQXNrdl91MDViVk40ampLcmJHYTFUa3RQa1FGYUcxaVNnR2Z3Qk5PMVc0RG1aQXJSODUtOXdWZERtcjJHU3cweFFla29sajJBZUxweUtiR0phRVdfMjFKQXpWQQ?oc=5",
-          "published": "Wed, 17 Sep 2025 07:00:00 GMT",
-          "source": "Esquire Hong Kong"
-        },
-        {
           "title": "最近港股弱勢的原因㊙️今天反彈的理由更新‼️ - Moomoo",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2k5bk1RVVdQMWdSamFxa2VPdTc4cHAtQmo3UHl1UWhMN0pFQTI3WmNVdXNJYjNGVURSVzFISkN5NU1TdE5lWGc1aEFkcnJ1VEJaM2Z2Tm5DMmFIdHBDR0pXNWpURE9IX1Y5X0lBWURXZDlQTExpVGx6X1p4WllzaWoyQXRlWEFPOUVYT2MwMUJ3Zi1lVWZQdWxCQ0M3NF83ZDBCcnZCN3VrZUh2bUZ2WVJSUEtwaEU?oc=5",
           "published": "Wed, 03 Jun 2026 07:00:00 GMT",
           "source": "Moomoo"
+        },
+        {
+          "title": "美團（3690）盈利插水股價卻反彈？｜ 究竟真金不怕洪爐火 還是曇花一現？ - Esquire Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjkzcTJtS3hocVgtVlNTVlctSG5TRGRkTmNMUnFrd3RwZ2xCZlNvZUl1djZWNmx6V0sxdkpGallUWlRNSlVBaEVzN0xBQXNrdl91MDViVk40ampLcmJHYTFUa3RQa1FGYUcxaVNnR2Z3Qk5PMVc0RG1aQXJSODUtOXdWZERtcjJHU3cweFFla29sajJBZUxweUtiR0phRVdfMjFKQXpWQQ?oc=5",
+          "published": "Wed, 17 Sep 2025 07:00:00 GMT",
+          "source": "Esquire Hong Kong"
         },
         {
           "title": "【美團（03690）業績】首季收入910 億元勝預期── 核心本地商業按季蝕少近八成官方指外賣競爭趨緩 - 經濟一週",
@@ -637,7 +637,7 @@
         {
           "title": "港股異動｜小米「二當家」林斌擬減 明年12月起每月沽39億元 半日由跌轉升不足1% - Yahoo 財經",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNcHMtbGthUTViN3hpSW1QVXFFNmNudllCbVlPRlo2RW1QWVM4Y2VQZEVLWFRmbFU1aTAwSEZ5cUtqTVo5Y0JES2toQTROZ0hNVUZhMWYydEhvcWJGZG12Q2Q1MlA3ZHNHc2RCdy1WZ0xCaWNRSUxYS0lXS1pNX1RPZUJrZXFwUDRDVWhTcmNJX2o3ZHNqc3MtbUUxNm9XV3RhTG0zalZEX0hnZFRMZlVfUFQxM0RjSWRKeVpqbjJuVU1WNG10OW1MTUlMZnFSNkx3VlRfeHhpUk5vcXlQSlJZczlGOXFlM3RqYUhObXZYaWZma0tEUHVydGhPTVR0TldNU2FtbUhIblFJaUdlMDh6eGp4SXdId0NJczFCV0VzZG1pV3UxeV9NNVVsaWs0N29DRnM3aDhDUmRtYkFvRFZ6am5udjFkRmx3SmZSVEVCMTZ2WEFkWWFZSHYxWHdwRnUzNWZaOC1SbGx0N2tISTlEaw?oc=5",
-          "published": "Sun, 28 Dec 2025 08:00:00 GMT",
+          "published": "Mon, 29 Dec 2025 08:00:00 GMT",
           "source": "Yahoo 財經"
         },
         {
@@ -688,34 +688,34 @@
       "name": "京東集團",
       "items": [
         {
-          "title": "京東集團-SW(9618.HK)2026Q2業績點評：核心零售利潤保持韌性 外賣業務持續減虧 - 富途牛牛",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajFQYWoyQTlrZm1XTlAwYi1OSHphQkoyS3M3dDBUZGlPM2lYTDhWZFRPbEdRQ0gzdjdsbHhCT19lYlNmV2t5a280RUxlNTZ6c0UySHdtc2dwRXh1NWVpWm52NkVwMTdJWER3Tldub2VuZTlyazlCSlRGNVJ0VHBvZkE5REMwNGlBMU1ycnU4QlRQVHRjQ3BV?oc=5",
-          "published": "Tue, 18 Aug 2026 23:04:54 GMT",
-          "source": "富途牛牛"
-        },
-        {
-          "title": "京東系財報後集體大升，京東集團升超5%！Q1營收超3000億 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQc3FLOVJtcTZ4ZnBwUzNkTlJibUpFS0I3Y0x3dkQxdHowNG1wcjEwbk5SSFN1RE4yMEx6X0VIOWV3N0RCTkRhSzhfM213UkpJWWFaM0o2dGtvOFZTMHZ2QXNFSlZMUEF5Y2pnRmVpcU1IQmx2MjZqS09iTktHQkw0SFFiWHk3ZG1iMXZxVm5YWHJUTGpIak9xTGZtWXc0enFiY3ZuYTZ2SDZIX1JqMGhLWDFsaURrOHl1SEFBZDNWdy11bE1VZURqZWxVWndRYzgySGp1ZjBhbnF3d0J1MGllYzFMLWtmbEJzZlNMUGpUSjN1RFdIdklsZ1lnS1U2a0ZEZV9PRTc5a1AybE56YTFpXzJia2pfZXRwdlBFa0NaVFE2Y09TcEtYc3NXU3FDYV9GSXlYOTFPYXR1dm1vMHpIcGw4RVhRWS16WHJkLWRCTF84MGdnbkZmMnVn?oc=5",
-          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "title": "大茶飯│京東系新股 宜短不宜長（青冰） - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPa05kNmx0a1FJVlBPSlBHa0ZOVXY1VzZFMWhKTVlfS1JFVEhteEhzMVM1V0w1ZXFaaU1wVHNLbUc2NmFGZmhtVFNFN0hPXy1FOTFFdzZKZGtmanRVQTZSbi02Y1dvQWdQNThmNWpQNGZuOGxzcGlfaUMwcDRNWl9rWTJIWmRjczZiQ3MzU0V1LWJxb1pvTGFhZndlM2VBTWJZUHpKWEVleUdUaC1OWUM1d3ppUzdFRzhRaHhHQ0JNNkdXWjBhaW95dlplNnVNdFRlM1B2VHdlS3BnWWR6ckJRSDVMR0ZmaFVlOW90QVR6a0FMajZwVHdGSU5BVDE1TG1HS0drM0lvLUNkbWlQZElobDZhelRRdDd5Z0kwcVloSDB5bjE0SmFxSUdfWnZnMnkxdzA2dDhYMA?oc=5",
+          "published": "Thu, 04 Dec 2025 08:00:00 GMT",
           "source": "Yahoo 財經"
         },
         {
-          "title": "9618丨京東集團次季經調整盈利升兩成 - 信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02SksyZVRBb2xfbWo5MFJsYVVsRkVhbGYyX3d3M0dfQ01WcGlvcEhTTzR6MHhEckFWYXVVaGZUek90QUl1aEhKVktMTktJTnpEWVF6S2x2STdtanVhZFlrZw?oc=5",
-          "published": "Fri, 14 Aug 2026 13:20:25 GMT",
-          "source": "信報網站"
+          "title": "騰訊阿里京東本周放榜 科企季績料分化 左右港股 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNaG52NUIzYlc2Tk9GZTd4NXlZR0trSV9IUUpRU1B1bnItcHNkVjIxdm54d2ZZYkJRMnZJU3dUenpFY2hxNURCVzFkV0x0NWhsN3FVWVJ0ZFBiNkxwSFZUUHVCaXpKTkFTQ0JvQWZUSTA2TG1iUUhsWHZremJYS1docmNFTWRaVy0tVnVFMDZCalRMNVdYaDlsZEVlQ2NQUzYtZ3Fjb0lTV1E3MW05U0g0cTZHd1VKU1I4OFJiV3Z0NzR4TDc5TUdlTHRQbE5xOHZoTlpseGhVYkxhNmMxaFJKbzRJRXRvRWRlRFlPbjhYZi1hbEZNVGcxSjliaFRYTEhwTzJUTmtSODR0cWhvOVVzN3draERXLTNrTWNldHVxUFNVZXhwVnowS2RibXdwSlFjcFpCbUY1dVMyVC1FeS1hc2RLa0xVNk5kWVg4ZDRJU0c3YXYzUHJVRUNEMUw?oc=5",
+          "published": "Sun, 10 May 2026 07:00:00 GMT",
+          "source": "Yahoo 財經"
         },
         {
-          "title": "最近港股弱勢的原因㊙️今天反彈的理由更新‼️ - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2k5bk1RVVdQMWdSamFxa2VPdTc4cHAtQmo3UHl1UWhMN0pFQTI3WmNVdXNJYjNGVURSVzFISkN5NU1TdE5lWGc1aEFkcnJ1VEJaM2Z2Tm5DMmFIdHBDR0pXNWpURE9IX1Y5X0lBWURXZDlQTExpVGx6X1p4WllzaWoyQXRlWEFPOUVYT2MwMUJ3Zi1lVWZQdWxCQ0M3NF83ZDBCcnZCN3VrZUh2bUZ2WVJSUEtwaEU?oc=5",
-          "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "title": "09618 京東集團－ＳＷ - etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80Tjk0OHpRdHBXZjJFZWR4a2pQZUpEb0xYOWlpems3LVd3Ul9vd05zUm12SEFwclJyNy1FSURTY3kwenk4ekdSMnR4OVNLY0xuRV85X3MwZmJMWTg4N1pfSDU5VnktVkgxdk9Wb3Y4akMzY0NQZy1j?oc=5",
+          "published": "Mon, 27 Nov 2023 03:12:07 GMT",
+          "source": "etnet 經濟通"
         },
         {
-          "title": "京東止血見效 但投資者更想看到增長 - thebambooworks.com",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVFRiVXZGRVdkWnVBSkktN043QXRtNG1Eb2tlMDlDc0QxSVcyUUJRclBrbG5DTVZVZ2owWGtKV01zN1dvRWdGS1JDdmhPSWZqREFyeGVMbm9CYnpsOGM1QVBNb0dSQzRURW9MZmMwcjEtaDRhYUp5WEtBNGd0Sks5TVpZa21iZ3FTaEprRy1KR3BkY3ZRVnlDUU5lekYxY2xOS0tOMXEyaDMwNW5nQ3o3V01hTGllYXVXeVhxNlNBazNsMmRDTUhaQ2VKTEptSS1zQzJoSjVra1hWTjNzM3QyTTRVZlRYUnhPb0c5TFlySElBTUI3RDZrRmRETUJiVzlSX2xpLWx3aw?oc=5",
-          "published": "Tue, 18 Aug 2026 04:35:02 GMT",
-          "source": "thebambooworks.com"
+          "title": "香港股市、港股行情 | 鉅亨網 - 鉅亨網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sbnFuV3BkTWxZVUkzdVA2bEtlNVRPeTlJZDI2QzR6WEhNS3hWb0hTUUExNk9PNnNlZ21vS3MyX1gza2lqUWRrd1lOLVZ6d29SaTlF?oc=5",
+          "published": "Tue, 16 May 2023 01:05:28 GMT",
+          "source": "鉅亨網"
+        },
+        {
+          "title": "“百亿补贴”全面上线！京东集团-SW(9618.HK)高开1.79% - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByMHVHODRRc05NemMtT0pNcHBvZUpnZlotMTB0NXhoNWU3WVJWcEQwanVJNlE1eDBIUFp4LWswczlMVHMwRTdyaHVYV0tUWU5DR0JFa0NQWElkc3IyZEpxbU1KbXgyVTBJc3c?oc=5",
+          "published": "Sun, 05 Mar 2023 08:00:00 GMT",
+          "source": "TradingView"
         },
         {
           "title": "Is JD (JD) Facing a Turning Point in Governance After New False-Advertising Scrutiny?",
@@ -918,16 +918,16 @@
           "source": "富途牛牛"
         },
         {
-          "title": "關於Zijin Mining Group Co Ltd-H (2899) - Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52MXFEak9vNEFxMTVKSWxRaVFNWWU1VFJnQTdOdnVjQU9Vck9JQ2V3WG1yOWpQXzB6SG9zY3ZGZnR5OGR3SHp4RExXUHdwcjNldFdXdHU4M1pyUkVrVE5Ua3VpQ3JVSlpua3dKenRlWS1YbGY1RDEw?oc=5",
-          "published": "Fri, 14 Aug 2026 07:59:59 GMT",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞"
-        },
-        {
           "title": "紫金礦業市值突破千億美元，躋身全球礦企第三強 - NAI500",
           "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQTTlMRk9VVnNieVpseF9uRkNqWEVqZVdPdURfZElLcWFkX2g4SFN1bnUzT0g5bFR2b1BLMmxZbWNiSEpkRm5HaDVJLWJWeHZpUVI2c05QSXNQLUZZMU50UGZDUnpPVl9ITy14eVh3Yl9NN1VWOHctMllUOEhnbFdDOGswY3diNU9rbmxpbXJrOXNGdUlDYmtkejhvTmRqY2MyVDVlUlpxUEVkS1RNUGZ5bjNOOG1oMGdIVnRZWndGQVgwRHFRWlVBTlRRYU9Iek9XQkZaSG4wYkhFQm9RNU5ma21fM18xX3Ftd2ZRd1BYTVhMd3BnN29zZWtJM1JoZ08yUkxvaHNIeDJZSnFpWXlPdF96MmdPNllzeHZwTmdoMWVSSklLQy05VXpNOFUyUlhFMzBWZExFQl9LVjRTaldlOUtOVWJnYjVxcFZwN0VwWWlLX0Y5UWQ0cndGbw?oc=5",
           "published": "Thu, 25 Sep 2025 07:00:00 GMT",
           "source": "NAI500"
+        },
+        {
+          "title": "中信股份旗下中信金屬將收購Ivanhoe Mines 19.9%股份 - 华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yWW92RFVwNmVkT0U1WDFuYTdQd3d5aTBqNllpa1IxVGs2WW9JWEF5dmo1WUtNMWxEWDg1dUtscUk1MmlFR3BHSmttTkFjUFdSTnhRMFp5T1g1SmtsdXc?oc=5",
+          "published": "Tue, 12 Jun 2018 07:00:00 GMT",
+          "source": "华尔街日报中文网"
         },
         {
           "title": "Allied Gold Says China’s Zijin Gold Terminates Takeover",
