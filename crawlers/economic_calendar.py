@@ -51,18 +51,28 @@ def fetch_from_forexfactory():
         data = r.json()
         events = []
         for item in data:
-            # Forex Factory 格式: title, country, date, time, impact, forecast, previous
+            # Forex Factory JSON 有兩種日期格式(2026-08 觀察到已改用 ISO):
+            #   新格式: "date": "2026-08-23T18:45:00-04:00" (ISO 含時區)
+            #   舊格式: "date": "07-29-2026" + "time": "8:30am"
             try:
                 date_str = item.get("date", "")
                 time_str = item.get("time", "")
-                # 解析 date "07-29-2026" 和 time "8:30am"
                 dt = None
-                if date_str and time_str:
+                # 優先嘗試 ISO 格式(含 T/- 分隔, 帶時區)
+                if date_str and "T" in date_str:
+                    try:
+                        iso = date_str.replace("Z", "+00:00")
+                        dt = datetime.fromisoformat(iso)
+                        dt = dt.astimezone(HKT)
+                    except Exception:
+                        dt = None
+                # 舊格式 fallback: "07-29-2026" + "8:30am"
+                if dt is None and date_str and time_str:
                     try:
                         dt = datetime.strptime(f"{date_str} {time_str}", "%m-%d-%Y %I:%M%p")
                         dt = dt.replace(tzinfo=HKT)
                     except Exception:
-                        pass
+                        dt = None
                 events.append({
                     "date": dt.strftime("%Y-%m-%d") if dt else date_str,
                     "time": dt.strftime("%H:%M") if dt else time_str,
