@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-31T10:01:00.017522+08:00",
+  "updated": "2026-08-31T11:01:04.811572+08:00",
   "indicators": {
     "usd_hkd": {
       "ticker": "HKD=X",
-      "price": 7.8393,
-      "change_pct": 0.01,
+      "price": 7.8389,
+      "change_pct": 0.0,
       "interpretation": "資金離港警號",
       "signal": "alert"
     },
     "chinext": {
       "ticker": "399006.SZ",
-      "price": 3389.8755,
+      "price": 3366.7605,
       "change_pct": null,
       "interpretation": "內資情緒領先指標",
       "signal": "unknown"
