@@ -1,203 +1,203 @@
 {
-  "updated": "2026-09-01T10:01:15.114797+08:00",
+  "updated": "2026-09-01T11:01:06.997841+08:00",
   "stocks": [
     {
       "symbol": "0005.HK",
       "name": "匯豐控股",
-      "current_price": 159.3,
-      "target_mean": 177.18523,
-      "target_low": 157.92532,
-      "target_high": 204.8835,
+      "current_price": 159.1,
+      "target_mean": 177.16557,
+      "target_low": 157.90779,
+      "target_high": 204.86076,
       "recommendation": "none",
       "num_analysts": 10,
-      "upside_pct": 11.23
+      "upside_pct": 11.35
     },
     {
       "symbol": "0939.HK",
       "name": "建設銀行",
-      "current_price": 9.47,
-      "target_mean": 10.87962,
-      "target_low": 9.727274,
-      "target_high": 12.587963,
+      "current_price": 9.54,
+      "target_mean": 10.876821,
+      "target_low": 9.7247715,
+      "target_high": 12.584724,
       "recommendation": "strong_buy",
       "num_analysts": 17,
-      "upside_pct": 14.89
+      "upside_pct": 14.01
     },
     {
       "symbol": "1398.HK",
       "name": "工商銀行",
-      "current_price": 7.58,
-      "target_mean": 8.381188,
-      "target_low": 6.9808736,
-      "target_high": 9.288783,
+      "current_price": 7.59,
+      "target_mean": 8.379032,
+      "target_low": 6.9790773,
+      "target_high": 9.286393,
       "recommendation": "strong_buy",
       "num_analysts": 16,
-      "upside_pct": 10.57
+      "upside_pct": 10.4
     },
     {
       "symbol": "0388.HK",
       "name": "港交所",
-      "current_price": 411.4,
+      "current_price": 407.8,
       "target_mean": 513.1177,
       "target_low": 420.0,
       "target_high": 620.0,
       "recommendation": "strong_buy",
       "num_analysts": 17,
-      "upside_pct": 24.72
+      "upside_pct": 25.83
     },
     {
       "symbol": "0941.HK",
       "name": "中國移動",
-      "current_price": 79.15,
-      "target_mean": 96.606064,
-      "target_low": 80.185585,
-      "target_high": 116.15819,
+      "current_price": 79.1,
+      "target_mean": 96.581215,
+      "target_low": 80.164955,
+      "target_high": 116.128296,
       "recommendation": "buy",
       "num_analysts": 15,
-      "upside_pct": 22.05
+      "upside_pct": 22.1
     },
     {
       "symbol": "0883.HK",
       "name": "中海油",
-      "current_price": 25.48,
-      "target_mean": 32.242165,
-      "target_low": 17.504663,
-      "target_high": 42.39137,
+      "current_price": 25.18,
+      "target_mean": 31.536116,
+      "target_low": 17.49433,
+      "target_high": 42.36531,
       "recommendation": "buy",
       "num_analysts": 15,
-      "upside_pct": 26.54
+      "upside_pct": 25.24
     },
     {
       "symbol": "0857.HK",
       "name": "中國石油",
-      "current_price": 10.26,
-      "target_mean": 11.660053,
-      "target_low": 4.8175726,
-      "target_high": 14.473709,
+      "current_price": 10.17,
+      "target_mean": 11.657053,
+      "target_low": 4.816333,
+      "target_high": 14.469985,
       "recommendation": "none",
       "num_analysts": 15,
-      "upside_pct": 13.65
+      "upside_pct": 14.62
     },
     {
       "symbol": "2628.HK",
       "name": "中國人壽",
-      "current_price": 30.6,
-      "target_mean": 35.25291,
-      "target_low": 14.151837,
-      "target_high": 44.59199,
+      "current_price": 30.06,
+      "target_mean": 35.24384,
+      "target_low": 14.148196,
+      "target_high": 44.580517,
       "recommendation": "buy",
       "num_analysts": 15,
-      "upside_pct": 15.21
+      "upside_pct": 17.24
     },
     {
       "symbol": "3968.HK",
       "name": "招商銀行",
       "current_price": 51.2,
-      "target_mean": 58.630898,
-      "target_low": 49.556503,
-      "target_high": 73.510254,
+      "target_mean": 58.61581,
+      "target_low": 49.543755,
+      "target_high": 73.49134,
       "recommendation": "buy",
       "num_analysts": 19,
-      "upside_pct": 14.51
+      "upside_pct": 14.48
     },
     {
       "symbol": "0700.HK",
       "name": "騰訊控股",
-      "current_price": 443.4,
-      "target_mean": 665.13306,
-      "target_low": 426.92484,
-      "target_high": 882.9126,
+      "current_price": 440.8,
+      "target_mean": 664.9619,
+      "target_low": 426.815,
+      "target_high": 882.6854,
       "recommendation": "strong_buy",
       "num_analysts": 42,
-      "upside_pct": 50.01
+      "upside_pct": 50.85
     },
     {
       "symbol": "9988.HK",
       "name": "阿里巴巴",
-      "current_price": 111.8,
-      "target_mean": 176.59335,
-      "target_low": 95.024315,
-      "target_high": 206.99467,
+      "current_price": 109.6,
+      "target_mean": 176.54793,
+      "target_low": 94.99986,
+      "target_high": 206.9414,
       "recommendation": "strong_buy",
       "num_analysts": 23,
-      "upside_pct": 57.95
+      "upside_pct": 61.08
     },
     {
       "symbol": "3690.HK",
       "name": "美團",
-      "current_price": 77.85,
-      "target_mean": 110.20079,
-      "target_low": 57.38987,
-      "target_high": 168.52408,
+      "current_price": 76.65,
+      "target_mean": 110.17243,
+      "target_low": 57.375103,
+      "target_high": 168.48071,
       "recommendation": "buy",
       "num_analysts": 36,
-      "upside_pct": 41.56
+      "upside_pct": 43.73
     },
     {
       "symbol": "1810.HK",
       "name": "小米",
-      "current_price": 27.86,
-      "target_mean": 36.51461,
-      "target_low": 19.19682,
-      "target_high": 80.08179,
+      "current_price": 27.48,
+      "target_mean": 36.507137,
+      "target_low": 19.191881,
+      "target_high": 80.06119,
       "recommendation": "buy",
       "num_analysts": 29,
-      "upside_pct": 31.06
+      "upside_pct": 32.85
     },
     {
       "symbol": "9618.HK",
       "name": "京東集團",
-      "current_price": 110.3,
+      "current_price": 109.1,
       "target_mean": 152.85352,
       "target_low": 93.0,
       "target_high": 212.0,
       "recommendation": "buy",
       "num_analysts": 21,
-      "upside_pct": 38.58
+      "upside_pct": 40.1
     },
     {
       "symbol": "9999.HK",
       "name": "網易",
-      "current_price": 190.4,
-      "target_mean": 250.86479,
-      "target_low": 167.99579,
-      "target_high": 308.9847,
+      "current_price": 189.5,
+      "target_mean": 250.80025,
+      "target_low": 167.95256,
+      "target_high": 308.9052,
       "recommendation": "strong_buy",
       "num_analysts": 21,
-      "upside_pct": 31.76
+      "upside_pct": 32.35
     },
     {
       "symbol": "2318.HK",
       "name": "中國平安",
       "current_price": 56.85,
-      "target_mean": 81.56885,
-      "target_low": 67.99646,
-      "target_high": 99.39523,
+      "target_mean": 81.54786,
+      "target_low": 67.978966,
+      "target_high": 99.36966,
       "recommendation": "strong_buy",
       "num_analysts": 15,
-      "upside_pct": 43.48
+      "upside_pct": 43.44
     },
     {
       "symbol": "1211.HK",
       "name": "比亞迪股份",
-      "current_price": 89.2,
-      "target_mean": 125.77853,
-      "target_low": 87.982796,
-      "target_high": 150.54243,
+      "current_price": 89.1,
+      "target_mean": 125.74616,
+      "target_low": 87.96016,
+      "target_high": 150.5037,
       "recommendation": "strong_buy",
       "num_analysts": 27,
-      "upside_pct": 41.01
+      "upside_pct": 41.13
     },
     {
       "symbol": "2899.HK",
       "name": "紫金礦業",
-      "current_price": 36.68,
-      "target_mean": 51.920635,
-      "target_low": 43.449116,
-      "target_high": 61.17069,
+      "current_price": 36.64,
+      "target_mean": 51.907276,
+      "target_low": 43.437935,
+      "target_high": 61.154953,
       "recommendation": "strong_buy",
       "num_analysts": 14,
-      "upside_pct": 41.55
+      "upside_pct": 41.67
     }
   ],
   "count": 18
