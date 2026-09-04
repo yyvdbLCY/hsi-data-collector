@@ -1,27 +1,9 @@
 {
-  "updated": "2026-09-04T09:01:16.410258+08:00",
+  "updated": "2026-09-04T10:01:12.373677+08:00",
   "news": {
     "0005.HK": {
       "name": "匯豐控股",
       "items": [
-        {
-          "title": "匯豐控股(HSBC)股票7月30日盤中上漲4.61%：原因全解讀 - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHZSWTlRVVdVb09FaTR0UndfTTFEZExkTWFuenY2QTlzTE5WRGFiR0tRbnd6X0NrNldzVlJzVDhaYmdjOXdvcFNOd1N2VTJ3ZHAwdUdyTkhHYW5tZXBJT1ZYTkNxUm5rcWZUY2U0dHlzdm9QeWJFYWFCTlVRamJ5bWZuN0NwRWQxR1NVMC15amFFZ1RNV2c?oc=5",
-          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-          "source": "TradingKey"
-        },
-        {
-          "title": "恒指拉牛上樹原因明顯 港股欠市值管理遠見 作者 HK MoneyClub - Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OM184eklyRFJ4eW5meW5MZWU4Q0lxYTN5WDJ4ZnpVZUQtNElFQ0U1TWE3OEdCOGwwVURXUl9tZkJnOU4yanc4OXRHQkNGdjJES1FadUhaWkl6Ykk1UXc5YUFFaHprUlU4bllENlUzWlo?oc=5",
-          "published": "Tue, 01 Sep 2026 02:12:41 GMT",
-          "source": "Investing.com 香港 - 股市報價& 財經新聞"
-        },
-        {
-          "title": "滙豐績後股價破頂見169元 管理層暗示每季進行回購 維持派息50% - 香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPdW1fYi1fMHJ6NExQRnZlQkJfYVdCUmpNY1VkMHJ4LVNwLUMzWFNPSHM5Z2lKbGdvaHJxX1VESDVZLXBnYzZnNExxOGFhYVQxQnEzOFNfc0lyaW9mM2lhWmk4WXVjOVZ4ZFhETG1WWkt3OEduRVg4YThlaVluNUY2ZWV2TVRjMzNPV2YtcTB6TGdVZlF1NHdJOThnSjg1bDNZcGN2R0hMVzJHckJaM19QNURqcHZMakM0SGRsZ3l6bEVRUzh3UndTYkQzeHhIdWduREJzR09HTm50eFNYam5PeFZiLWROTUh1LWx6ODZyRmxhUUdWcmpvUTkwY3laTUJadzFfb25jemYtR2xEVmNwVkhGV1J2cVh6OVplUVFwWFB0Qi1TMjRrSDdDcUxmeXF0S2dYUkU3bjN0RjdZeFBrT2VqZ1M5cXNpb3k3eU9SV3ZYWVZrRzBscnB2dURvSk9mQnVITVVCS2dnTWpXUUppT05sQVJzWTNzek1ORm91TlZNeDhqWmdNT0xMYXg0Y0JSTm1DVE03NG1IZEZ1UXE3MmpacG9XQld1d0Y4?oc=5",
-          "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-          "source": "香港01"
-        },
         {
           "title": "HSBC HOLDINGS(0005.HK):HONG KONG MARKET HAS BOTTOMED EARNINGS GROWTH IS ACCELERATING AND THE RE-RATING CONTINUES - 富途牛牛 - news.futunn.com",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjJfWEN0UHkxN2s3aG9VYlZ3cTRTOVRaOWZWMC1hT3RNdm5QWVhLLTB3YzUtdjZLRFFSazJYZ2NMYWdTYWVrTVpqc0w3M21CdzFzUUJTMWZ6M05oSTlNZkpnbW1EX2MwcHktRjdlLWZ6OTQ2eEhPRGVHdXlvQ1dXUEd0M2tJWThCY29tcTRfTUZMMEZnTDBrYjdBaUhzUkFQZC13?oc=5",
@@ -29,10 +11,28 @@
           "source": "news.futunn.com"
         },
         {
-          "title": "滙控周二放榜料多賺19% 憧憬恢復回購 維持派息10美仙 - 星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOMzNOMW1UUXFIOG92dVRGbUdxSWgwSDBhbjhXdkRWR1hsYWFTWThuNDZOWGNVVjNidExIVVVuY2FaNVZKSVh6QTdQcFZ6VEsxY0owc1ExcTJWSEdkQmpJRzFtNE5NMjZQMzBYNEhXczRWZXJjQzBxeHdBa0dIZFpDOUtYdXRqZk1wRkhWcVFFYk9QamRyOEZpQ2FHOFd1QW9DeEZBaWVibE5ycS1fRVBGYmxnd0dNWUNWdW82eUc0dW9fMkFQcE9HVDMtM3JqTUJlNmE0cVNRa1dLUGdDd3NueERBV3ZHQjNqc2RMSUJIOERPcGYtRWtrNDE5ZTVMTUhJMmxIbnhkRHVXei12X1BYeTZuNW5SWE9XNnpUQ1UyTTR4ZnIySWFkdTBjOENnUVBiUlVoZVh1UkYwZ3ZvTFkyWFVuRDFIZkVuVlZ6dTNjd083ZFRQVDZORDRjOGYwMXRz?oc=5",
-          "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-          "source": "星島頭條"
+          "title": "匯豐控股 | 0005.HK 股價走勢與即時報價 - BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10RHkyQUlfUmxzaU5teG1rYjBhV1QyaTltdDIwX1hHV0c5QU5wSUZXN25nbTJvbUl0WUFmT3A3RUcteERCUUJWS05PWHlCWEVFQnFoMg?oc=5",
+          "published": "Sat, 17 Jan 2026 14:33:13 GMT",
+          "source": "BigGo 財經"
+        },
+        {
+          "title": "00005 滙豐控股 - etnet.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaSGZzVmFyX3NwUERybDFCLWEtbWFkNGhwT21acmNORWZMbEw3cWpyOE4tOUF3bm50TFh6TGo1cTVNQkV4SkxkRTlOSWV2d1JlSVUyWHdld3AxSTVrU29QSlNjazJTMkxUSEhLN3BCckRYYjRpZ1MzMQ?oc=5",
+          "published": "Tue, 29 Aug 2023 12:36:08 GMT",
+          "source": "etnet.com.hk"
+        },
+        {
+          "title": "為何說滙豐控股屢創歷史新高？以前不是已經當過「紅底股」嗎？ - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPZlVHdzRYalBEVkdqRDBnWm5pby15aVN6Z0Uyc1RpNnFubHZMM0hJejhvRWREdlBMandkRXpVa256azg3RDk4MXBsQmN6SXJRMmRJM1kxeUJBX3VoWUJEWGREOFF3WVE1OXY4UFpIZ0ctSDJ3ZGNvdnR1a0cyc2tOZ3doOTNwYlBzMzFaZnZWT0w5b2hEaXlUNHhUNVctd0I3WUQ4TlZodWZxUVNtMC1XMUlUOVItT0ZDbHFRVzlDSGZRcm5XOHRVN0EwNGNNcWpqc3R3WEk0cjNpRHRtcnh1SmZvQ29lSGdIRnljSHVHT0VkUXNhNnZzOXZuNm5WQWhGTWkxUTRzZGg4WWJiUGI3M1F3TkZpY1lWWWdlamp2NmlqMzZjeXM5aGZZSmNkUllTT2F6Q0ZSYXJHQ0Ewb25NY0UxX3JtbzZVSERCTHVIcFF1Q0RsMWdLbWcxR3cwWm5lXzJQRFVRWW1PRWxadEVtQmVBUWpUV0NhVHRkZXhnVnBMQVFCTEZFQkowUW04aldRUFktVUNXVnItajA?oc=5",
+          "published": "Thu, 26 Jun 2025 07:00:00 GMT",
+          "source": "Yahoo 財經"
+        },
+        {
+          "title": "HSBC Holdings Resumed at Buy by Goldman Sachs >0005.HK - news.futunn.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVY3UUVkZ3VFREktSjVtTG9WZUxnVC1GdzJBSFBic2ZzZF8tMUszUFBwWDNnQ3QzRkstcWtqcnRoSVZiS1YxbmhuWmlTenZIVnotUzFjajlmcEJPOEg1NVZXdlp5LW1jZ3pVRGpuTXhBZC16Y2lkVWdBU1Z5UlE0QlF1Q2xZTDlKQzJkN252aVhlU1huVFdZc3Nn?oc=5",
+          "published": "Thu, 26 Mar 2026 07:00:00 GMT",
+          "source": "news.futunn.com"
         },
         {
           "title": "Will Barclays' Expansion Initiatives Accelerate Top-Line Growth?",
@@ -111,10 +111,10 @@
       "name": "工商銀行",
       "items": [
         {
-          "title": "工行的年中答卷 57萬億資產的數智進階 - 香港商报",
+          "title": "工行的年中答卷 57萬億資產的數智進階 - hkcd.com.hk",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wNVgxOU13RkttQy0zaHhPTzYxMjcwVk9YNEpqZEJjU1YtUEZoWjdIQUdJYy1VcU1zUGY3dlhIdWp4UENzUzNrVHJmdUlOcVJSMnlIWlotdGNLUEl5ai1VQWlMeUNsMktJMWwyWm85eVU?oc=5",
           "published": "Mon, 31 Aug 2026 01:20:00 GMT",
-          "source": "香港商报"
+          "source": "hkcd.com.hk"
         },
         {
           "title": "港股工商銀行創歷史新高 - TradingView",
@@ -170,16 +170,16 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "港股設8種每手股數每手門檻降至一千元- 財經 - 香港文匯報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90RzlQQkxXbnJFTDFKQVExaE1ZU2psVi1nMTRwUDV0X3RDTWM4M1d2b1dQVkgzcm1ieTdyaXZSS3F0MWJzbTk1NGpITjVXS2o3dE5kR3cyQkdiRjBKd2xHVkx0RDJqNDJ2Rk96SjBteGc4cHBBb1k4?oc=5",
-          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "香港文匯報"
+          "title": "港股成交回暖配合技術轉強 港交所反彈能否延續？｜彭偉新 - 香港01",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNYW94WEpZSkg4dEV1RUZjR1U4ZVcxSjFOdVRRX21WTW1xWHlsS0xPLTd5NkJaaGhYQnlCNGJlbjZ2TlZRbHpFYVJwbkE2bFhOcERLMlZlWERZWWtxUjNKRmRLUGxwR0EwRm5MMXZYZmJhV1huQXNkMkREWG01NUtQQ01xck9pSWJ2WWRvT0g2UGczam1YOW1QNEMyRTZKUXlHamI4WXZNOUkxdHFDVTJTamhERl9sUnhXWDRSR3BvOG1tYWFreTNyRGxjT1pHMDFjdndLWXRvcDZyY3VxMWRBNG01eEJXVWhpUzVScXFiUTg4eHdKSUNodlh5em1TRmw4RHBUZ1Myd2RPZGU2SFlXc3BjX1F6RHhFT1N6NTFCVVNQUEVmYWhOdmxtdHo0RDhYREZwUTNtZ0Nybi10WE1NZnN6ZktqSDZZV3o2d1FZNVV6bl9MeFM3TFJuZnlFNlBUQk1wNE42WlV1TnQtWkZLUDQxRGNpSi1FRzBDQ1lXV0h1Qi1pZk9yLTNLQ2g1ZkxubzBxV2V2SHU?oc=5",
+          "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+          "source": "香港01"
         },
         {
-          "title": "1手1股不是夢！港交所7.2起標準化每手股數至8種 每手最低1000元 - 香港01",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOUnBxdGs0VTQtb3ZGOXU3dkgwZkZ5UDhUeTljS0JiZFIzM0MtNUNrUUlfUFBXM1BNSUJFY2hSMW41YlRfNUIyVFY5OWJNdFRwZTIxemVReGFueGVOZWpFZXNsbnlhQWtBeWJqeUxGdGxEMU5yYjNtbU9GOXVoNnlTZmdJczlPTFBBOEdMbTQxRUFwUGp6RGtETUlMVS1LLXVQSnNjVU41YjV0OUNkU3pUZnAwMGQxbG1iRGpSNm04Sm9NdzB0V1h0WHI3dU9vWE5zT0F4RVJ6LVlRZ2M4LXZWQW9weHc0c3RHa0d3d3FwRC11YlBoekVtX2hpUWZhX3VmSUlBdFBVUTFVZUVRWWk5RUJNMjRIajlJbkZDbnU3enRHYjBIWmd0bTdDZS1hYXlsRGotSk10eWJiZi1iWHZIUjd0bWFmTUNvSUEyQkZ4enN5MFFWNUFVbE5ER19OVFE2NzlCUzMtaVRrcUl3RDc0SmNPMVhLaGdRTXBoOWNFRUtjcVl2V2dqZU5nbmd0WlhkT2xFTDNJMUxIdw?oc=5",
-          "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-          "source": "香港01"
+          "title": "港股設8種每手股數 每手門檻降至一千元 - 香港文匯報",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PRTlibTVBM2FuaXZvLXNxa1hnY1FiV1g3ZWljYmU0c05xa05WZlVHM191UUN3eDN3ZjNsNmx6dDRwUml2NjRxZFpId2RLVVh3cXVxRUp3RHlfWE9NZ1RkQ19nY0FQSGRtOW8tcHJZaWpPUHZEYUtvaVE1emc?oc=5",
+          "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+          "source": "香港文匯報"
         },
         {
           "title": "港交所2025業績狂賺177億！重奪IPO一哥，0388現價仲抵買嗎？ - BusinessFocus",
@@ -188,10 +188,10 @@
           "source": "BusinessFocus"
         },
         {
-          "title": "港股市場｜港交所研延長交易時段 擬提早至早上9時開市 取消午休 研增晚市配合美股 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNNXVXQUNCN1N6al9wbVA3ZTRmSmktQkU1NU13SnhKaVViUDFoMWpkbU5FampHQ0RRelFCdFg4NUc3T1lqb1B4cGxRQWxKS1BvajFsbVZ1UjRfTlBLYlV6eXliQnFNWXRwQUhxYU9kWllEa0dUbjN2LS1hOUcyVmVwamlIS1hwcTROUE5TZ2hfel9VMF9oMURGVmRtMFlsdS1LSnlHQkNGSlRCNHFkUkdhNzZPRWMwOXZwWHA3Zks4YzU5T1hTYURyNlBRT25HN3VjdC1XZnFINElLNVBlcXRzVGtieTVDWG15dHVqbURVeC01eU96Sk5YOXFHUVJxMVB3Q2s4VThwSmhfU0V3R1pzUHdFbEtXSGJTa05jcnU2OUVEMDNHV21EOWs0U1prTTNlZXI2Z1l3Z0M0OHJVR2t4dkk3Q2RXdFQtelNkVGdlUjlIbnpMU3NoZGc0ZXZObmR4b1ZNTUNkMEwzVy11Rkc1a011Wlp3LVdYQUJBc0NXWjFEN0ZmT0NCek14T1czRW8zcEVOc1N3V25tNjQ3T0JjSWJ5R3AwdTAtSG9HVXFPVEt6Rk5iRjRKb19neENSMWp0Qm90M3JzS2pmZmxzYXRzWTFYSlU0MmNKQ09WQzlnVTNLc0U2NjY2TjlLNmt1ZmFnQ3UtYXQ3djhGUXhEbWZXSGJEdlJaTUF2?oc=5",
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "source": "Yahoo 財經"
+          "title": "【388大行報告】高盛削港交所目標價3% 憂中東局勢壓抑估值 料全年日均成交2760億 - 香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemtrTG9kbkUtRGZCRmtZYkNHLXlwa0ZreUtYczBIWDlkcEZYd0g5bmN3NWszeC1jd2VLY1N1NTBUbEtUZEdkd3JMekgzM1Y5R3pKWXpWUDdLZWs0Zy1jZDdLMmVPWS11MGV1RmQ2N0Zfb0s2aE5QTWZ1M3lNOHJBTUN2d1ZOWFNtaFpwaUwyelgyWVJqOVQ0WTAzSWw5RFdZMGQ3SmF1UGdOSzdCSHZTM1BzOA?oc=5",
+          "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+          "source": "香港經濟日報HKET"
         },
         {
           "title": "Hong Kong Exchanges and Clearing Ltd (HKXCF) (H1 2026) Earnings Call Highlights: Record Revenue ...",
@@ -217,10 +217,10 @@
       "name": "中國移動",
       "items": [
         {
-          "title": "00941 中國移動 - etnet 經濟通",
+          "title": "00941 中國移動 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zWi1PQ1k0SVpxUUJkOXdiTFRBUV9iMWRDS1lFdFA5RDh5dm9iYXFjV0d5b0M2SnpDZjRYWE9ydWVXLS1PZlRRT2ZXMk1seHhISFUtanBqMlU5VlVIX3dWQ0tldWxTV3NBMnVZUEEtZ1dONkU3a1BJeA?oc=5",
           "published": "Sat, 19 Aug 2023 12:52:27 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
           "title": "紐交所撤回將三大中國運營商摘牌的決定 - 华尔街日报中文网",
@@ -247,21 +247,21 @@
           "source": "Yahoo 財經"
         },
         {
+          "title": "SiriusXM: Deutsche Bank Sees Significant Upside From Digital Audio",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/siriusxm-deutsche-bank-sees-significant-011533519.html?.tsrc=rss",
+          "published": "Fri, 04 Sep 2026 01:15:33 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-reportedly-raises-3b-30b-004842708.html?.tsrc=rss",
+          "published": "Fri, 04 Sep 2026 00:48:42 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "A Roblox Director Sells 16,666 Shares After a 67% One-Year Decline in Stock Price",
           "link": "https://www.fool.com/coverage/filings/2026/09/03/a-roblox-director-sells-16-666-shares-after-a-67-one-year-decline-in-stock-price/?.tsrc=rss",
           "published": "Fri, 04 Sep 2026 00:28:54 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Q2 Earnings Outperformers: CarGurus (NASDAQ:CARG) And The Rest Of The Online Marketplace Stocks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-cargurus-nasdaq-002318707.html?.tsrc=rss",
-          "published": "Fri, 04 Sep 2026 00:23:18 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Does Marvell (MRVL) Signal Patience or Urgency With Its AI Data Center Timeline and Buybacks?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/does-marvell-mrvl-signal-patience-002103876.html?.tsrc=rss",
-          "published": "Fri, 04 Sep 2026 00:21:03 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -288,10 +288,10 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "國家隊出手掃貨 港股企穩兩萬五 升580點 中海油阿里領漲 - AM730",
+          "title": "國家隊出手掃貨 港股企穩兩萬五 升580點 中海油阿里領漲 - am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4TlJ4SlNhOXh0YkQyQWs2Q1pXNFc5ZnVqd1lsZnhISkkzOXlyT2FYOF9kNGVJODQtVnVsQjhISlBVc1U5eFY5a0RfcG9aN1hHVWc?oc=5",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-          "source": "AM730"
+          "source": "am730.com.hk"
         },
         {
           "title": "北水動向|北水成交淨賣出15.74億內資繼續加倉美團(03690) 全天拋售中海油(00883)超5億港元作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
@@ -329,10 +329,10 @@
           "source": "BigGo 財經"
         },
         {
-          "title": "00857 中國石油股份 - etnet 經濟通",
+          "title": "00857 中國石油股份 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41SW96dXFaR2VZejRERjhNcndfTUZua2phbFhiWFpydjByeDBHbXIyNkxJT2kwQXlnNUVzUi1oWlR4OVFSOWFZQ2pGLXZNZk9SNVFoWUxXTVVaVE51Z0F6RU9qeFdwalZxVTNKcnFYZFZ0My1oNllvSA?oc=5",
           "published": "Tue, 15 Aug 2023 00:47:02 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
           "title": "【港股專家】聶振邦：不受市差影響，中石油（0857）值留意 - Capital 資本平台",
@@ -488,10 +488,10 @@
           "source": "Moomoo"
         },
         {
-          "title": "00700 騰訊控股 - etnet 經濟通",
+          "title": "00700 騰訊控股 - etnet.com.hk",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ERHdoRjFYMExwNmhkekxaekRfNk9ZcjU4M29NRDFzbldsWUh3eVdHbnI4MHZxaF9kell2cV9SUms3cjZmejI3ZzNkYUNnam04MjhYMHY3WWdWcTB3dUQ5OVBURng1MUppVHItck1qU0pCZWlsdEgxNw?oc=5",
           "published": "Wed, 23 Aug 2023 18:25:10 GMT",
-          "source": "etnet 經濟通"
+          "source": "etnet.com.hk"
         },
         {
           "title": "〈港股盤後〉金屬與電子板塊業績報喜 恒指震盪收漲0.52% - Yahoo 財經",
@@ -653,16 +653,16 @@
           "source": "news.futunn.com"
         },
         {
-          "title": "日韓股市齊挫 港股一枝獨秀 阿里小米快手領漲 恒指升702點 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOV2tmZk8zZzVXWTl0aUZhYm5Qakx0MGluZFZhS0tvbGxSdENmV0JEck5sSHVQWFczaExpaF8zU2owWVdhdlY0U205SWI3YUx5ak9sOWRGQzljcmNpNkF5SFhuZ0tscUtsVVZVNXBrV2hqLVh5dXhRX1paV2lKSkowbDBXV1M3X0VaeWJRMTg2Y3BvMWtCRkdnMmhEcV9nTkdXSUd1NmplU1c4eVA0MWYyeVVhUTJpM3FYYWUxTGJTN1Q1Y3VQaVFyM0kzUzY0aW5zTzVEMGFiX2V5Ymlsbm9FRV8zZUE5QWF0NkFxN0NxRUlnbVRxNUJDdHJsUVF6eEJrX1daOV81SElfX05QR3hJMmZ3TDZ4Q1Eyc1I1M0pCeGhEM1pLVW9vRzNmM01kdjhQeFZhVnVKZWplb0pONmZ0RE5fd19VRUhJTWYxcjQ1em9TOUdhTkVhOEI1RXF4Ulc2azdzR2lUc0xkNlgwazV5c0UzV21uVmlCY1lF?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+          "title": "科技｜ 小米REDMI Note 17系列登場 同步上架7款穿戴式產品與潔淨新品 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNOUJVbEJwaGxOeXRlMTFfRUtMR3VnS3UxR1lzN3RJWUItcFFwU0ptbDJnejljOTRIQTB0bUFwZ0hvSXBDZUJpVGw3WkdLRWhkTHBnR0ZSRTM0QmZpSXF0TEhmS2pxTTYwb2tDaW5hS1ZQTmdJX21MbF9xOWVjWVBPNlU1aldNX0VQS2g1c2g3QWtKbkZvbndJeUhoUmtMUHN5TDRnQXh4X2JuSkNybEJhQ0g4NU8zcWRIUGFkcHZiLVJiZkZXRlFiTDktUHBDTmJLbGo3UVdBeUFVX0N0UEx4TDItOU5vQzNCVmZBYmlPX0hXZnRRQ285ZnlyMmdkejRlb2p3TTM4c2pKdmRQa0pJLXdEUHNrY0hTRW5MTElvMVZzWmFtLWdDOEszVE5RWjE1NDI4QnhDMktkXzdrRFFsRU1xQ1hBVk96ZnNsaG1DMWlocFFmRDFubjRDRV9mUkVMYU1PMGk3eDV4TjdpOXFzcEFTYVotU0haRkxQZG5SRUFZT29nN3pr?oc=5",
+          "published": "Fri, 28 Aug 2026 06:04:17 GMT",
           "source": "Yahoo 財經"
         },
         {
-          "title": "小米Xiaomi(1810-HK)電動車3月交付破2萬輛 產能爬坡邁入新階段 - news.cnyes.com",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPd3dtb1JpZmJpZ0otbUZNdzVBUGM3cmZmRnBHTVQ0NTU2MlU0ZlNHMmhRYzdWVk9LR2ItcUtRYzVMeFRiVm5SRGdUUkNXeXc?oc=5",
-          "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-          "source": "news.cnyes.com"
+          "title": "小米集團 | 1810.HK 股價走勢與即時報價 - BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pUE9EWGdkeXpnSWREYUpvVFNIcHBueFdCcDFpN0pOTFpvcWdGRGlYNEh3amIwYzFXU2dZSHJ0TXplY2Q1Qzd0MjQ4cjc3UlVmaWdQTA?oc=5",
+          "published": "Mon, 19 Jan 2026 15:46:15 GMT",
+          "source": "BigGo 財經"
         },
         {
           "title": "Global Body Area Network Market Report 2026-2035, Featuring Strategic Profiles of Apple, Asus, Fitbit, Fossil, Garmin, Huawei, LG Electronics, Samsung, Sony, Xiaomi",
@@ -753,22 +753,22 @@
           "source": "香港經濟日報HKET"
         },
         {
-          "title": "港股半日市收升138點 洛鉬老鋪染藍漲6% 恒指蛇年累漲32% - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPRGZyVVYzWXlEVVFHdTNIZGZXQ1ctNG52SlI1RzRKY0ZEWFVobE1NZXZYYlZkT3pQaHVaMnd1T0FBell1ZTZCTTZWXzV0VlNCeHM3Y3JpRG4tVW1nOTFiNVBtVmg5OFU5T0hzWXViRmtablVxa2MyNGx5ZDgxaDV0WldfajJXaW00YzNwUTV1YkJKdnZnalFVc0V6Y2Mta3JZQjFKMDhkbXNGMUdabGNBY1hXa0dScnk3TjhodVR2M1F1d3FGNUNfd1ZmZFhoX2k5T2U1LTdGTkNyeTB1SXZ6eGdVZmQ4MjhyU3NpZ1BkX2RZVHBVMW93dVNRSkIweHZLZGVSaldxOVhKell6alN4Y1MwS0xVUDhqS3pGeHl6c0NZTzBiandmU1Q2aEtRd0FCU1JPNmIxdzVKZ0o4dlJTUjIydGRWUW1RN3k2aHZLNkZVWWc5OXZ4dS1HLVIzbkRWTkYybS1wZ3lMRzFIVGhJVlFjeUZ5dGlvNDhlSGRR?oc=5",
-          "published": "Sun, 15 Feb 2026 08:00:00 GMT",
-          "source": "Yahoo 財經"
-        },
-        {
-          "title": "軍事衝突對股市邊際影響遞減：市場似乎漸適應「邊打邊談」風險 - 香港財經時報HKBT",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQZVJZY19NY0FsaDdqSmZaLWdadG9wWlo4dlo2RE50SG5qVVhRalFPeDhvcFVnX2JrTGd1dGloNTY3V1NvNlJzYXowWDdfWDVDOUc5ZldaM1EyanZlRlhLemVJOTd2M3VxWEZBbklselpHa3R2LVJ0UkVaY09TRHRUN3NabWR6VThzU0NyYmtQS3ZBMDNLcExNUW1QeEVHLWNQR3RrcFNRSEpBRzlocndpZmlIUjlhaDhBdW92alVURU92MkNqaXlwRTJRd0NiMW9TRGlyblNNcVFHYmpXdXQ0QzY3WVV4OV9aSkhlbkhtOWo4cGxBSkduV2JsVzJOV2tWeC1XcWZuWVo4X25ITlFnUERJMG9QU0Q5VUNtXzMzSnJMOVc4ZmNBNEV4VGNrMURQVlB4TWJKZkl4dllJYUg3Rk1qTDZMVVp1UHUtY0FMU3U1dVhNT3BYR3Q4elNDQzRkd19Fdlc4UXk?oc=5",
-          "published": "Mon, 20 Apr 2026 07:00:00 GMT",
+          "title": "網易 股票分析：資金面改善、新品週期啟動及AI應用兌現的交匯點 - 香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQTmlLZ1dpQ0VkWnhlRk0xb2JBajdFeTJFNWxuZ1pwZDRwOXJhYVg0Qjg1bE1NV3FoMGtYZ21nMy1nZW12X1dKY1VOYzhURXZGME1UNW5tNFlhWGt5ME9JdllXYzN3V0trbVpDS3k3eThGM1R0VHF2TVdzQ3NPQk1pdUFzcno1a1ZMQVlsa3o2MjJzZW1KTXZVemZnV1BDX2hZTl9nSW5KVlYzUmpPUmRaa1FxVG16YlVUcFZhclhKQUNLTUpkeW1uUjZLNXRrYlBLZnA0MER0R2lUNHdJdzd2Wm9ERWZPeW9RZDVsMU5MaWVJbUN2czN6LTQ0NTMxQXdFaEJkVmRvcm1OT0FiLWNqZmNPaDNSX1RIYzdVM2lkaFhJd2dZVU45Y003eVRyd0FDS0YxSy1YQmxvdzY1WGk5dmIySGdxcWZwdHpRelBpcjFBSWtwVnBKS2pJRVBEaGpVbVpr?oc=5",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT",
           "source": "香港財經時報HKBT"
         },
         {
-          "title": "【9999】網易股價逆市曾升逾5% 雙重主要上市生效、即獲調入港股通 - 香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNaTFwWUdsZ3o4aHpib2JuOXBwMjFISWZycDBYeE9iV2R0THBIcDRKdzhlT01JRUtxdURKeTQ4a2hCMXo2cmpUV2NFejhjRmNyTEZFemVpcDRhWWs0dVNQTk8wWkduNk1hZzVrZXlzcGtQSjFrQVBNYjh3U2k5eTZlWTRMaThpRl9FemVjSE1XTXdQZFJuQnFRYmM0ZUNrWVZDZzJWRXAxbFlhMndDNTFRdGRmYW14YmVobmVuSjc2d1lLc1hDc1VRZlRjOGF3MlMtQ2VWZ0xXcTg0VDkxVFJpWVU2T3VOQVJoZ1BOaGlja1RhU2Fybm1jVE5ZYWxhOEhwVmE2eVpXY0hDdVdOQ2dlTmliMUt6b0djc0haZDNQNE1nYnRvWURRaE1GcXhQekMwSHdzZ1lOeFQwdjhOZGtLUjNWZGF3aVBZSDhFamNiMkNTdU43LTlBejVFMFRydjZ6YTR5eXNFazFRZXFkV21rQjg0TmYzazFnMDdHTjZvVjNob1pGVVBFbHVWTEFqMGYyUDhEdEw1UjRfYzBhTlFUQ1hXNTlfYUtK?oc=5",
-          "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-          "source": "香港經濟日報HKET"
+          "title": "簡訊：遊戲相關收入年增12% 網易第三季多賺近三成 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNR0V5dzBPYUd4VFR0RHhqUFlkRnB2dzAwMWlQbzN5Q0xkYWxTUEVfWWZrcVRfNGo0WHAyWm80eGpCcjNmbk5ZOU1pRlQwdjBNcUpLbDBIdzJOcEhUTFpIb3lLcDROaldwbVQtcUFnNkFta3ZEUzNKUjRwaWZKamhUeWpGM252YktOQkJhbzM5dkRNcTNKR1IxNUV2Zm1LY3JuNnYyaW1aYzhweW9WeVQ4QWFQMW5COHgwNktKTmlkaFpITXZiT0w4T2Rpa0NKYlgzbnQ3NXNuRXZibGZ0RWYyUVpWWmJyQ2ZWNmhJU2x3SU85RkxlRFZTcmRKQTJwR3Z3UVlEdWRWRWhmVDNvZDA0NUNoaElPdGZVWDZMMlN6YWIxTTVoa1JvbWx6dC12Z2k3UlRCT2x6SnlEZXlfQjdnOGhZNktlLVFfRWFpTE9hRHB5Sm8?oc=5",
+          "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+          "source": "Yahoo 財經"
+        },
+        {
+          "title": "網易 | 9999.HK 股價走勢與即時報價 - BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aLUZQZmlHVTlNWVUtSV9tWW5JVWdYZ2JiV1E0UDFQWWhzc2QyWHAyeElIaVl0N1lldTFaMzJYQVFjVjZSQnZMbUR5anNDeXJ0SVNwTg?oc=5",
+          "published": "Tue, 10 Feb 2026 17:13:00 GMT",
+          "source": "BigGo 財經"
         },
         {
           "title": "NetEase’s (NTES) Old Hits Are Still Doing The Heavy Lifting",
@@ -806,9 +806,9 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "滙豐與最大股東中國平安之間的裂痕可追溯至多年前 - 华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNZW5ISmIxRVlDTE9zRzdnREF6RVZVb2NDYm9YMTBfQ1ZQaV9Yc0p3WFktUm5QUkw1NHVTcjRRcXpfeW9pc1hMeXFPekR3R1h3aTBYaGZmRU9CbzFydUJRNjYycXp3cER0bkZheklOeTlRYnBTVDU3ejM3WjhUdEx6QWMxTXAzbkdjVlF2YlowNVBPT1dPRDU3ZXdvZ1JUUkNIZmxZLUthRHg4Y2hkOEdBN2h5MHI0NXpsU3JWdkJ3YnBXZWM5N2FPSVp4YXRCekpUZmhKTHc1cVgzcENyT1hUR1RvRVBmRXI3YTA3LUJnR0NGaEVpNEhjM2dQRW1KLXo3WnZEUHltRDdPSGQ1bDllT1NHS00zZUJsMHVYQ2FYZVd5ZTZCbG05WjBGWl9FSE1ZdXFhSXpscUJDcmQxbzlVU3dXMFluY21iaGMxNkU5ai1rR1lXU2I5VUhpMmtZVEVWQUE?oc=5",
-          "published": "Mon, 20 Feb 2023 08:00:00 GMT",
+          "title": "滙豐控股最大股東中國平安加大施壓，呼籲徹底改革 - 华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMzVORDNKdmhuQXpEaVpsQlpmWk1jWFZXeFBTcFRoa1VSLTVxOWlfYjl4NnJOMW1DZW1yemNRcU9wV1l3cHQ3Y0l4TVNmQjdPNVIyU2VXWnB5dHhQZW8tN0tyOVpXcFo4QTk1S3FSNXpOdExHaC0tbzZJaGxsbU92Z05OczhmYWxZaVUtRlhDX1ZUUnN5VVVVVHdod21GR0FXNGxjTWZzeGNxVDZsMXpJcUpQSVpWT0VhMjdZazJUd3BsSGYxT05MM0JNOFo0X3kyN3YwMkRyeHQyYTdOdmtOc2JpS05zYWJWd1U0S2gxZmdJeUluZUc5RlF4b2NZUWtJeWl4OElHdnlrWkhKc3pJWjg4S2h1cnNIOWE4cVU0T0x6cFlDb2VsSDRGd2lVMjhUWEc1MHhBb2ptcWdiNVNOM0RBU2tCcDVFODBpcmMzQmJsc2o1Q1otMDlfdkM?oc=5",
+          "published": "Sat, 05 Nov 2022 01:31:31 GMT",
           "source": "华尔街日报中文网"
         },
         {
@@ -818,9 +818,9 @@
           "source": "信傳媒"
         },
         {
-          "title": "滙豐控股最大股東中國平安加大施壓，呼籲徹底改革 - 华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMzVORDNKdmhuQXpEaVpsQlpmWk1jWFZXeFBTcFRoa1VSLTVxOWlfYjl4NnJOMW1DZW1yemNRcU9wV1l3cHQ3Y0l4TVNmQjdPNVIyU2VXWnB5dHhQZW8tN0tyOVpXcFo4QTk1S3FSNXpOdExHaC0tbzZJaGxsbU92Z05OczhmYWxZaVUtRlhDX1ZUUnN5VVVVVHdod21GR0FXNGxjTWZzeGNxVDZsMXpJcUpQSVpWT0VhMjdZazJUd3BsSGYxT05MM0JNOFo0X3kyN3YwMkRyeHQyYTdOdmtOc2JpS05zYWJWd1U0S2gxZmdJeUluZUc5RlF4b2NZUWtJeWl4OElHdnlrWkhKc3pJWjg4S2h1cnNIOWE4cVU0T0x6cFlDb2VsSDRGd2lVMjhUWEc1MHhBb2ptcWdiNVNOM0RBU2tCcDVFODBpcmMzQmJsc2o1Q1otMDlfdkM?oc=5",
-          "published": "Sat, 05 Nov 2022 01:31:31 GMT",
+          "title": "中國平安施壓滙豐控股重組，悄然成為激進股東 - 华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPbzA4T2RBbHBDR0JETzdJVmdPaGJab3FOUVJZd0VwUFdQN255WlJiVDdZRjk4YWJmTjd2bnEwZ0JtZGgzNzh5c2RXT2ZQMEM4Y0Q1RkoxbkxJZUI2VWlaMkVSc3pPWDVjX0tiSjc3S2FQTUk1WUs1NGtyczJHa3M4R1FHcVBCXzlQY0NoM2pKUW5ObGlQdFRLMUxuN2R0LXpid0xrVjZvSW9fMkNhSGVYWXRmUE1tTlR2WFpkR1VfM1lFTjBxR1dRazNCQVp5SElDdVBYTnBVRGtTOHFueVJZa0tsVWs0TDk0M3JNNEs3UE1tcmxDUUFrSm9SSzRfczRlMi1QYzhRTFJVNW50dmhORUhuc3dwOWJZaEd2Y3JLZlBWSHdwLXhzdWVfSktpdmRrOHJJbVpUVXllcHF1ZlAxbXBwalI?oc=5",
+          "published": "Tue, 03 May 2022 07:00:00 GMT",
           "source": "华尔街日报中文网"
         },
         {
@@ -900,10 +900,10 @@
       "name": "紫金礦業",
       "items": [
         {
-          "title": "02899 紫金礦業 - etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VUURoOFZkbHoyNHppeGpTeXJfZHZ5dXdkdGJUTnRGcG1odW53TGdnMUxUTVpaeFlDLTE2N3lGQkhDUGJMYndUV3N2bHphaWxPazFINkRvZTM5ZmtqUkFMMGpNUi1zNlpfZllVZXlTUlFNTmRIdHFwNA?oc=5",
-          "published": "Mon, 28 Aug 2023 04:39:18 GMT",
-          "source": "etnet 經濟通"
+          "title": "02899 紫金礦業 - etnet.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HdTNUNFZQNVV6LVRtajRXb0dQbTZuR1VQbDZCdjhrUlhKeEktTHF3QWtSdnhSQl81Z3JoUzhNXzdPNkttcTNVSEloYjhjZ2ZaQVk2N0RsOXBXbkZDTVlGYmdtQ2tDd3lrQ2o4NnBUbnJSM1cycXlJ?oc=5",
+          "published": "Wed, 29 Nov 2023 23:29:19 GMT",
+          "source": "etnet.com.hk"
         },
         {
           "title": "紫金礦業股價因計劃收購加拿大Allied Gold創歷史新高 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
