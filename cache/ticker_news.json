@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T15:01:17.649155+08:00",
+  "updated": "2026-09-10T16:01:14.147957+08:00",
   "news": {
     "0005.HK": {
       "name": "匯豐控股",
@@ -58,12 +58,6 @@
       "name": "建設銀行",
       "items": [
         {
-          "title": "公司業績公佈日期 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0hUbXAwWXpqZkczSVFWS0VWUlhIcHc4ZmlvN2doeDhkNjV0dHlobVRHMVpEdGwzNWhFbmVocUh1M1pxX3A2QmxVS29OQXF3VnRCNlluYXdWUUFqNEJ5V284T2g0TlM3NjJHTjMxUHlWMzNYUXhkNjZUdjl3Y2FNWGRhTnRvUnpyNmY3VTh5LWd2eFZSWUE?oc=5",
-          "published": "Fri, 04 Sep 2026 15:35:50 GMT",
-          "source": "Yahoo 財經"
-        },
-        {
           "title": "China Construction Bank Corp股市新聞(0939) - Investing.com 香港 - 股市報價& 財經新聞",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XeWJvdDJCU1BvUWZjT056NkxGSjNwdC1QeWRrMk5tUUkyQUJ2N3ZacFQwUTVHRFVTV1ZyeXh6ZGR5WWpfNkV1MWdKaS1aZ0d5ZEpYbHd0Wnk?oc=5",
           "published": "Tue, 18 Aug 2026 01:06:08 GMT",
@@ -76,15 +70,21 @@
           "source": "Moomoo"
         },
         {
+          "title": "港股業績｜首季業績遜預期 滙控股價大跌5.2% 惟一年升幅仍逾50% - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONk9KbDdvWE84Nm13dGdKZTNFNS1fTlVoTW1taTRmcWtFOFdBVUk3MDVTZy1lSHpfTnkzSGJfMWtVSjd2bmU5LU1KX3VRMG1uMEJ1M2c5MFlBSXNBc1U3amVMa1IxejdBdkNpQzFfWnpqM0dPYUpPLTVSUnlHS3h4ZHBKNjZfRExUT0czdzgwNU5CN2F3YWZvSUtBVFpVckk4STBqNGFPRzVFMzhIUk00cVZZUm9iZG1mN01ZVmlvYlFVSHBHM0J6UWUyOW9ueWVyeHdUUHdxM0xHZnN5Y2UzTTRBVHg3WXViRUh4TGNHdEFkMThIa3B4clNGZXBjcmJmSUV0Vm93NVZHcTY3Nk1sZE9ROTVSaVAyWmwxWVZZX0RDRF96RWtrQjhwN1ZrQjd0OGRaU0lhWGk2MFFRLUE?oc=5",
+          "published": "Tue, 05 May 2026 07:00:00 GMT",
+          "source": "Yahoo 財經"
+        },
+        {
           "title": "傳港證監會突擊搜查兩家中資券商 疑涉IPO違規帶走文件調查 - exmoo.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRlNVZmRmWHY5a0syV0Fzd2JTMXRDR1YzTEFXWDhvNzVyd0NKbzJRWlRNZjRQUHBOMkxHamtJaHlHSzg5aEFHZWhxN3lycEE0RHk0?oc=5",
           "published": "Thu, 28 May 2026 06:09:33 GMT",
           "source": "exmoo.com"
         },
         {
-          "title": "港股業績｜首季業績遜預期 滙控股價大跌5.2% 惟一年升幅仍逾50% - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxONk9KbDdvWE84Nm13dGdKZTNFNS1fTlVoTW1taTRmcWtFOFdBVUk3MDVTZy1lSHpfTnkzSGJfMWtVSjd2bmU5LU1KX3VRMG1uMEJ1M2c5MFlBSXNBc1U3amVMa1IxejdBdkNpQzFfWnpqM0dPYUpPLTVSUnlHS3h4ZHBKNjZfRExUT0czdzgwNU5CN2F3YWZvSUtBVFpVckk4STBqNGFPRzVFMzhIUk00cVZZUm9iZG1mN01ZVmlvYlFVSHBHM0J6UWUyOW9ueWVyeHdUUHdxM0xHZnN5Y2UzTTRBVHg3WXViRUh4TGNHdEFkMThIa3B4clNGZXBjcmJmSUV0Vm93NVZHcTY3Nk1sZE9ROTVSaVAyWmwxWVZZX0RDRF96RWtrQjhwN1ZrQjd0OGRaU0lhWGk2MFFRLUE?oc=5",
-          "published": "Tue, 05 May 2026 07:00:00 GMT",
+          "title": "渣打(02888.HK)研設自家金庫 料金價年內潛在約兩成升幅 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQa0NLejhScHBJOFA0eW5fb0w4ZHMyVy1SaG9rTkNIOHppU25ndkZZYjhUamdvcTA3MFpVWEZFWVE2ZUx2MGdmT2VNMmpuNW1jS1hYUmx6TVVOR3ZORG9uNWhfdFUzQ2tJaHRoLTcxLXdkT2g5azdCZHZnYzBLdHlKVGxqckhWYXUtZmJBTFdKVk5LT1BiVXVGSzFia1BneGRDVEd4bUExY3dGa0FFTVR6emRTRXh3TU9sLURYSU0wQ3RaZDQycjhFbzNqdGVhNEJfcDg2YTZQUS13Nl9pQi1QLVZJdGxGekg2UjZDWlRxanhIa2h2cFNnSnB1RVhqbzdVS2Ffa0ZFNDFTSXhoUVI5NDhPN3JRd0otenlWaXVoVl9YRVN0d00wMW1wSW1GaTZiajRPaTkzMzUyR1U5Y216WEd3Rm80QkQ3WjQtbnBoeXJzTjAwNHpMXw?oc=5",
+          "published": "Sun, 14 Jun 2026 07:00:00 GMT",
           "source": "Yahoo 財經"
         },
         {
@@ -111,10 +111,10 @@
       "name": "工商銀行",
       "items": [
         {
-          "title": "工行的年中答卷 57萬億資產的數智進階 - 香港商报",
+          "title": "工行的年中答卷 57萬億資產的數智進階 - hkcd.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ma0FjazVXX25Ca1h2U01wQWZWODFDRW1GLXM4ODFQeXpJTVZPc1BVVmVEZUtnRmZ4a3E0ZTd6aDBkcU9Td0JSVTlvQ3hZWmFoUlJmY0VqbkZrd0Z6c0c4NTQ4eEhraEtjWFlGVA?oc=5",
           "published": "Mon, 31 Aug 2026 15:17:22 GMT",
-          "source": "香港商报"
+          "source": "hkcd.com"
         },
         {
           "title": "收息股2026│盤點20隻高息股 派息高達7厘 入場費股息率持續更新 - 香港01",
@@ -229,7 +229,7 @@
           "source": "香港01"
         },
         {
-          "title": "香港股市、港股行情 | 鉅亨網 - 鉅亨網",
+          "title": "香港股市、港股行情 - 鉅亨網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UUjN6aV9pWnBNaG95dDBMNVVaNlRXemd5SUpWUlJtanBObUZsQ1lLTWVCZmRfWkJLNVVxZXhXa1Q4R085U21OTDNqUWkwNDFlU2pR?oc=5",
           "published": "Tue, 16 May 2023 04:15:33 GMT",
           "source": "鉅亨網"
@@ -247,21 +247,21 @@
           "source": "华尔街日报中文网"
         },
         {
+          "title": "If a Stock Market Crash Is Coming, Smart Investors Might Want to Buy This Growth Stock on the Dip",
+          "link": "https://www.fool.com/investing/2026/09/10/if-stock-market-crash-smart-investors-growth-stock/?.tsrc=rss",
+          "published": "Thu, 10 Sep 2026 07:26:00 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Phillips 66 and Tyson Foods have been highlighted as Zacks Bull and Bear of the Day",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-tyson-foods-highlighted-065600743.html?.tsrc=rss",
+          "published": "Thu, 10 Sep 2026 06:56:00 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0",
           "link": "https://finance.yahoo.com/technology/ai/articles/iqiyi-advances-professional-ai-filmmaking-063800073.html?.tsrc=rss",
           "published": "Thu, 10 Sep 2026 06:38:00 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Tec-Do Organized MARS2 Workshop at ECCV 2026 to Advance Multimodal Reasoning for Agentic Commerce",
-          "link": "https://finance.yahoo.com/technology/ai/articles/tec-organized-mars2-workshop-eccv-063000720.html?.tsrc=rss",
-          "published": "Thu, 10 Sep 2026 06:30:00 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "META Vs GOOGL: Cathie Wood’s ARK Makes A Nearly $56M Mega-Cap Tech Rotation",
-          "link": "https://stocktwits.com/news-articles/markets/equity/meta-vs-googl-cathie-wood-s-ark-makes-a-nearly-56-m-mega-cap-tech-rotation/cZtabpIRJCX?.tsrc=rss",
-          "published": "Thu, 10 Sep 2026 06:12:40 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -494,15 +494,15 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "最近港股弱勢的原因㊙️今天反彈的理由更新‼️ - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2k5bk1RVVdQMWdSamFxa2VPdTc4cHAtQmo3UHl1UWhMN0pFQTI3WmNVdXNJYjNGVURSVzFISkN5NU1TdE5lWGc1aEFkcnJ1VEJaM2Z2Tm5DMmFIdHBDR0pXNWpURE9IX1Y5X0lBWURXZDlQTExpVGx6X1p4WllzaWoyQXRlWEFPOUVYT2MwMUJ3Zi1lVWZQdWxCQ0M3NF83ZDBCcnZCN3VrZUh2bUZ2WVJSUEtwaEU?oc=5",
-          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+          "title": "Tencent Holdings Target Price Cut to HK$710.00 From HK$725.00 by Daiwa >0700.HK - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0pNOGd0YmdOWm5fb2hRTmJBQ0Rua2s3ckhQVWhZMFBlaFExRUZFVDZmUmhMUTJmN3duU0YwWnNJVTJadUJ5YzlkQmYxZy1BS3Y2WlRpS3pqYmVCa3R4X3lvbWVrNHV3OGRBWUlrNWFMei1hTVNVNFNGdEtGdlBjSno5N05fdy1VSE9tVjVIbFdpdHJ2dDRVWC1DTERBV2M?oc=5",
+          "published": "Sun, 12 Apr 2026 07:00:00 GMT",
           "source": "Moomoo"
         },
         {
-          "title": "騰訊(00700.HK)斥約5億回購111.3萬股 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzZtaVVKMXVZcUsxWkhCNUdsSlZQdWtLdUR3ekVjb2tDM2JUMUN2VmVCdHpnc09lajNiSTh1bUk2NnZ5cFpxZ2dTRjJpOTVqek9BSEN1dm96ZGhwdnJZSU9DdVllN2d2UDRuajRzWTZRMGQ5VGI2ZXhVTS1YTkl3QzREWW5ZMjdVa2RWY3VxQkJKaFdpQm1iaGRYTXVVMDRaNGd6cGVfcWlySld3UUlKakNSLVZjQUx5eHB1Z0hXOXhTVERzamJRRzRueXNWNnByU2Jhb0hjN1ZqZw?oc=5",
-          "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+          "title": "騰訊全年純利2,248.42億人幣升15.9% 末期息增至5.3港元 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRGpNLWlSUk9UUmpMZkpvR3FOOTlrSmtWc3JGRzZlZEZRWWNJRlRrUlBvYU02azlDQ1RQaDRBMDE1S25ZbTJ4UW9KVGhKYWZkeU56ckYzMHlmU2FDVnVydXRMc3dSY0hrVy1PMENmUGxDUXdqY2c3WXJ3RHFpRUpPNmZ0VVRVM3JVSUVBZlNra1BfTFVNOHdPYXU5c0xmMkhtSnVieVNPQWszZC1CbUtjcDJjc2h4Z1JVSGhma2huVUttamhnN3lTYW9Hb1JTdw?oc=5",
+          "published": "Wed, 18 Mar 2026 07:00:00 GMT",
           "source": "Yahoo 財經"
         },
         {
@@ -706,9 +706,15 @@
           "source": "富途牛牛"
         },
         {
+          "title": "9618丨京東集團次季經調整盈利升兩成 - 信報網站",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqSzVnY0JtdGRnOTJFNHAxWFJSSmV4dENWRGkzWVFiYmVpLTloaXozNm9pTEV1d0NrZnMyRWotRzUtVmFYRzM0NVV2bC1WZUNOV1JXcU55cjlZYl93Q216d2RKQ24tdw?oc=5",
+          "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+          "source": "信報網站"
+        },
+        {
           "title": "港股收市 ｜ 恒生指數 跌87點：資金集中在AI主題及少數防守金融股 - 香港財經時報HKBT",
           "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQSVI2MU40X3BhTF95VmhQMFZtRk1hWkM5a3ZkN2NnczNOZ2VQNXRIVnplZDJnaW13TjZDbVgxdE5LV3pSbnY2cm5KcWpGNXRCNGpjZldPUDVXT1puSG1ZcHRUTzVaUDhuRDlIR2xVVXBzdGNkYWhOTWNoVkQzVGpBZ3VBT2NIZXFYbmxKNHNSWEtUNHB4NFRVbHBfN1lLQXgxdnI0SU92SGMzbmxNeWFBZ0RJVTFVaE5YYXNTTmFzSjN4SUdRVnluWGxTemdFRU01TDBuVG1lMFgzUHlQclFXa0NsQXBQWjBPMnB4NFMwY01OTnMzemVMVXJpX25ESVBTZ2psclNCTFNIeU1paWEwWHlUS1NkUXNGNm9lOGFneUgybWJPMVp4dy1ReUlCLXdyNTVSYTd2Q0ZqMGVCT3d5Vm1ZNV9DeVE3eDlzOE5B?oc=5",
-          "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+          "published": "Thu, 27 Aug 2026 10:12:00 GMT",
           "source": "香港財經時報HKBT"
         },
         {
@@ -716,12 +722,6 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2k5bk1RVVdQMWdSamFxa2VPdTc4cHAtQmo3UHl1UWhMN0pFQTI3WmNVdXNJYjNGVURSVzFISkN5NU1TdE5lWGc1aEFkcnJ1VEJaM2Z2Tm5DMmFIdHBDR0pXNWpURE9IX1Y5X0lBWURXZDlQTExpVGx6X1p4WllzaWoyQXRlWEFPOUVYT2MwMUJ3Zi1lVWZQdWxCQ0M3NF83ZDBCcnZCN3VrZUh2bUZ2WVJSUEtwaEU?oc=5",
           "published": "Tue, 02 Jun 2026 07:00:00 GMT",
           "source": "Moomoo"
-        },
-        {
-          "title": "京東系財報後集體大升，京東集團升超5%！Q1營收超3000億 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQc3FLOVJtcTZ4ZnBwUzNkTlJibUpFS0I3Y0x3dkQxdHowNG1wcjEwbk5SSFN1RE4yMEx6X0VIOWV3N0RCTkRhSzhfM213UkpJWWFaM0o2dGtvOFZTMHZ2QXNFSlZMUEF5Y2pnRmVpcU1IQmx2MjZqS09iTktHQkw0SFFiWHk3ZG1iMXZxVm5YWHJUTGpIak9xTGZtWXc0enFiY3ZuYTZ2SDZIX1JqMGhLWDFsaURrOHl1SEFBZDNWdy11bE1VZURqZWxVWndRYzgySGp1ZjBhbnF3d0J1MGllYzFMLWtmbEJzZlNMUGpUSjN1RFdIdklsZ1lnS1U2a0ZEZV9PRTc5a1AybE56YTFpXzJia2pfZXRwdlBFa0NaVFE2Y09TcEtYc3NXU3FDYV9GSXlYOTFPYXR1dm1vMHpIcGw4RVhRWS16WHJkLWRCTF84MGdnbkZmMnVn?oc=5",
-          "published": "Tue, 12 May 2026 07:00:00 GMT",
-          "source": "Yahoo 財經"
         },
         {
           "title": "Sale of Barclay family’s former retail empire to be shelved",
@@ -853,15 +853,15 @@
       "name": "比亞迪股份",
       "items": [
         {
-          "title": "比亚迪(1211.HK)：海外放量推动业绩增长 - 富途牛牛",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWltMVl3bzRlUVlsSjh0MTdaOXVIY0lPQWthU0xnamw3X1VHaXk0bEZ2dFdsb1VkZDl2bDlDRU1ydTVhSFRmRnM3dzVudW9BRWJIdEQ1QWdQMlZJMTZIYVMxUTBQT0ZWbUFONENENkxfa0xpc0pnSnVHek1JNzNnQ2tiMnoyaS1rSHo2dHYwTkxTLVhsZ096aWl3?oc=5",
-          "published": "Wed, 09 Sep 2026 11:54:49 GMT",
-          "source": "富途牛牛"
-        },
-        {
           "title": "比亞迪股份(1211.HK)：2Q26盈利環比翻倍 ASP回落不改盈利修復；看好2H26出口 維持買入 - 富途牛牛",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGM3VUFvZElPNFBLQ0VSTnlGc0lfQUVsLVZyYW5UMlpDU2p0b2ZxOUhXampGcml4Q2EwVHowVFBPVVA0VmtvOHRiTjhIMUg0RUJ2Yjg0UlFDcGRSYm1JRjJ1ejF1VFh6WENOQVBNb2lEY01JRjA3STV0UWxOcnc0VFMwbDlhTkotSy1HZDA2RXUxNTNKRDU4?oc=5",
           "published": "Wed, 02 Sep 2026 01:55:35 GMT",
+          "source": "富途牛牛"
+        },
+        {
+          "title": "比亞迪股份(1211.HK)：以核心技術爲中國車定義高端 品牌溢價在海外不斷攀升 - 富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3ZIdlN1TVBkODVKOGRWZFktSURTU1lZcXFyNUlsa3c2dVpHWkVfakkxcE8yTDVsa0lRSmFjUlBmTmw1NG5PT3ZmNTkwb2Z5cEpQYlhJZHdqWndJNTFjN09SSGhsR01xS3RPWTd0WFpuRGhMODREOUt0NFpndm1qRkFuLTQ1OUo0dUpIZG5xbmZWUQ?oc=5",
+          "published": "Wed, 15 Apr 2026 03:34:22 GMT",
           "source": "富途牛牛"
         },
         {
@@ -871,16 +871,16 @@
           "source": "香港財經時報HKBT"
         },
         {
-          "title": "港股：花旗維持買入評級、關注訂單交付數據，比亞迪盤中股價漲逾4% - ww2.money-link.com.tw",
+          "title": "港股：花旗維持買入評級、關注訂單交付數據，比亞迪盤中股價漲逾4% - 富聯網",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUNjNkx0dkliUXVCSzctNzk3MWYydjYtY0pVX2NXQzJqUENnd3VscUhFWTdFSHR1T2h4dHJYS25MXzRNaWJtNnVtbzV5YjFlMDA1UWpUQXdYLW9QbVduU3J5bjNSdHktcncwQ094dFRCS3pWQlZXZktMNG5XdVBIeC1xVER5Zllh?oc=5",
           "published": "Wed, 29 Apr 2026 07:00:00 GMT",
-          "source": "ww2.money-link.com.tw"
+          "source": "富聯網"
         },
         {
-          "title": "比亞迪股份(1211.HK)：以核心技術爲中國車定義高端 品牌溢價在海外不斷攀升 - 富途牛牛",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3ZIdlN1TVBkODVKOGRWZFktSURTU1lZcXFyNUlsa3c2dVpHWkVfakkxcE8yTDVsa0lRSmFjUlBmTmw1NG5PT3ZmNTkwb2Z5cEpQYlhJZHdqWndJNTFjN09SSGhsR01xS3RPWTd0WFpuRGhMODREOUt0NFpndm1qRkFuLTQ1OUo0dUpIZG5xbmZWUQ?oc=5",
-          "published": "Wed, 15 Apr 2026 03:34:22 GMT",
-          "source": "富途牛牛"
+          "title": "比亞迪股份 ：正從中國龍頭蛻變為定義全球行業標準的規則改變者 - 香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxONkNOMklPNUQ1MEZ5VE5pS1JVTkF6cVpXYmlQVDBLNEkxU0JCaW84ajNZaUVLdUJrSzVzeFU2bFR1NjN5RWJ6b3FzN1FOZ1hRTlhBTWs3YUh3U2FXLXV6YjNvVlNpbnFnRGxfUlNDWXRLUUlJR1pBc1lpSU03VjFweU1JTUhxdTF3M0czWGNIMmY5REQtaGVOMzJqMkV4WWM1ZTdVZlB4dlFiakhuTnF2cHlaeW9FVnNwdUdzOUNvZVNLU0l1SXJEUUVxZ2hpRVJ0ZjVucjROZUgxOGJfeENRcnNLM2FUOHVmbDZ4bmNKMkJ0dXBKY01Va0pYbGhNM2lqTjkyNFYyUTJBdEo0TV9BM1dOMmdodzZtNUl0YkhHaGdDSllOdlE4YzRGMExkV1F5M1NGb2Y1NU9MdDdPQjB2V1EyYWotMzUyZW1ZVDEycnZ0V2IzQnlEcDMtbDZYVnUwMkgxekRvSVlVUQ?oc=5",
+          "published": "Wed, 18 Mar 2026 07:00:00 GMT",
+          "source": "香港財經時報HKBT"
         },
         {
           "title": "Ford Stock Drops. It’s China.",
@@ -930,10 +930,10 @@
           "source": "香港經濟日報HKET"
         },
         {
-          "title": "銅市長牛初現！巴隆點名六大礦股 - news.cnyes.com",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4Rm5PaTlSMm1tTVdPWThkUURYSEo4UDBJd19zRTIxRkR5Q2xIRVRMUFhINHdhdk9IOXhqaThhMHRXSFpSdXZCVmpRTHQ0NWs?oc=5",
-          "published": "Sat, 27 Dec 2025 08:00:00 GMT",
-          "source": "news.cnyes.com"
+          "title": "紫金礦業2025年營收、淨利潤雙雙創新高 - 富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUdKOWM5djBTNjlXWkFjMFlaN2ZuSF9DOHJrNUpHZzVrOElEclJiUmZkbXFxLTZrVGgtaGh0UTJ3eHpxdUdQTWlNU0FURVlUN0FtQTU2TkthQTAzZF9sRC1VVmpwb0RIaWdsRkZVSFRoZ1F3cVVvbDdfbDV3YldZMWRvbFJjanR0V3JYMzVLQ1dnbjJldzVFZHdB?oc=5",
+          "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+          "source": "富途牛牛"
         },
         {
           "title": "Weir to supply grinding technology for Zijin’s Akyem Gold Mine",
