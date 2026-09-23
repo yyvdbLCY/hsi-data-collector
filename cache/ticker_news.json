@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:01:17.353855+08:00",
+  "updated": "2026-09-23T13:01:09.287106+08:00",
   "news": {
     "0005.HK": {
       "name": "匯豐控股",
@@ -58,6 +58,12 @@
       "name": "建設銀行",
       "items": [
         {
+          "title": "傳港證監會突擊搜查兩家中資券商 疑涉IPO違規帶走文件調查 - 力報",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRlNVZmRmWHY5a0syV0Fzd2JTMXRDR1YzTEFXWDhvNzVyd0NKbzJRWlRNZjRQUHBOMkxHamtJaHlHSzg5aEFHZWhxN3lycEE0RHk0?oc=5",
+          "published": "Thu, 28 May 2026 06:09:33 GMT",
+          "source": "力報"
+        },
+        {
           "title": "【龔成專欄】一星期股票分析0939.HK 有質素的內行股！建行股息率達9% - Esquire Hong Kong",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFMmtqMnBjOTJlZ0luT0xYY2pYb2oyNjM4MmNvSnZUNU82LXVkNnhCWnF5SVpIZ3FrMWFsdUpXQWo0cmpDVjJyeHJ1b0RvclBGNm5pVHEzRHFPN3AyV3U4NWpkRXFqMVhwZGw4bmpuZ2pTZkU4dURQcHl6Xy1LQjA?oc=5",
           "published": "Fri, 14 Oct 2022 07:00:00 GMT",
@@ -80,12 +86,6 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rSkFwdktvRVk2a3VxYnVxY1B4ZzVwWnZJcXZXdW5GUm93bGVuWWJkZmt2d1NLTU90dU5XRTM4dklQRVp5cDFlQlhZSkp2aVRNNEFuMzgwaWdaSGZEcnpJ?oc=5",
           "published": "Thu, 24 Apr 2025 07:00:00 GMT",
           "source": "Quamnet"
-        },
-        {
-          "title": "港股推薦｜建設銀行派息比率有機會增加！目標價6.6元投資策略｜有聲有識 - 香港財經時報HKBT",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOZzVURy1YLThhd3BOQ1ZPcHVjZ0FRSEpBWlJvUGFSRm9JZE9kUDQ1ZHBzUHNZYW82dW5JY3dZb2dKMmkyNEZiWHIwdXRjNUtBLTJHZTNZTEwyLWFYQS15Um5XeHNMSHBXZ2tCSjQ0Rzg4THRpVmVRZVJicWdNUGkyRzZwY0ZhQnZvOElhSGR0clNtMFNQX3ROOVg2d3pFTWxaR1hTdWVlS3prVGk2Q2F4VmdlYkhtZkx3MkkwenVSbGUtdFNBMDNmUE9IMVNsUFJjVFlpdnR0clNjYWNWemk0dE1GcFd1VFFwa0ZKQzcta1Iwb3R4VFRrQ1AySUZKZUhaRU1UY1ZVLS05X1Rpbk15YnFaX05GRjBaNlVWRTAtT01INkdWbUFVOGVfaGsybXI2M3NWLWVfRVJKd3g4d1FZU2NGSVBuZ0wyVVB4dnRWWWFBN1dCUTVFNG96WHAyRGZMSEE?oc=5",
-          "published": "Fri, 30 Aug 2024 07:00:00 GMT",
-          "source": "香港財經時報HKBT"
         },
         {
           "title": "PBOC vows to curb ‘involution-style’ competition in China’s financial sector",
@@ -182,10 +182,10 @@
           "source": "香港商报"
         },
         {
-          "title": "港股設8種每手股數 每手門檻降至一千元 - wenweipo.com",
+          "title": "港股設8種每手股數 每手門檻降至一千元 - 香港文匯報",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PRTlibTVBM2FuaXZvLXNxa1hnY1FiV1g3ZWljYmU0c05xa05WZlVHM191UUN3eDN3ZjNsNmx6dDRwUml2NjRxZFpId2RLVVh3cXVxRUp3RHlfWE9NZ1RkQ19nY0FQSGRtOW8tcHJZaWpPUHZEYUtvaVE1emc?oc=5",
           "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-          "source": "wenweipo.com"
+          "source": "香港文匯報"
         },
         {
           "title": "港交所2025業績狂賺177億！重奪IPO一哥，0388現價仲抵買嗎？ - BusinessFocus",
@@ -247,21 +247,21 @@
           "source": "Yahoo 財經"
         },
         {
+          "title": "Shopify (SHOP) Could Be 30% Below Fair Value On Meta Muse Checkout News",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-could-30-below-043236082.html?.tsrc=rss",
+          "published": "Wed, 23 Sep 2026 04:32:36 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Rai Way (BIT:RWAY) Stock Looks Well Below Fair Value On Cash Flow",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/rai-way-bit-rway-stock-043232834.html?.tsrc=rss",
+          "published": "Wed, 23 Sep 2026 04:32:32 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Angi Appoints Michael Steib As CEO",
           "link": "https://finance.yahoo.com/small-business/articles/angi-appoints-michael-steib-ceo-033500687.html?.tsrc=rss",
           "published": "Wed, 23 Sep 2026 03:35:00 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "BRAHMA AI RAISES $150 MILLION ROUND LED BY MULTIPLES",
-          "link": "https://finance.yahoo.com/technology/ai/articles/brahma-ai-raises-150-million-031100650.html?.tsrc=rss",
-          "published": "Wed, 23 Sep 2026 03:11:00 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "What To Expect From Scholastic’s (SCHL) Q3 Earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/expect-scholastic-schl-q3-earnings-030850599.html?.tsrc=rss",
-          "published": "Wed, 23 Sep 2026 03:08:50 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -341,16 +341,16 @@
           "source": "BigGo 財經"
         },
         {
-          "title": "估值模型大亂鬥！從PetroChina到Netflix 全球投資人掀起「算價戰」 - CMoney",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFb3pTODhobmRrSjJYVjE0MGZvNG0tcDRsRXlpVEJZWGV6RU5kN1BhcjY4dWxHVUNlR0dtb2hmWGdtZlk5MVJ3RVFjbmNGNC0wNkdBYS05b2VFZ1BVcUFJN3RlTHZHM1U?oc=5",
-          "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-          "source": "CMoney"
+          "title": "00857 中國石油股份 - etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41SW96dXFaR2VZejRERjhNcndfTUZua2phbFhiWFpydjByeDBHbXIyNkxJT2kwQXlnNUVzUi1oWlR4OVFSOWFZQ2pGLXZNZk9SNVFoWUxXTVVaVE51Z0F6RU9qeFdwalZxVTNKcnFYZFZ0My1oNllvSA?oc=5",
+          "published": "Tue, 15 Aug 2023 00:47:02 GMT",
+          "source": "etnet 經濟通"
         },
         {
-          "title": "00857 中國石油股份 - etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ua0ROODZXX3E4UHZZblVvaGJYNFdaT0pQcnZwVVNOaWhoMEpSaVJ1RWUta3pVS2t5Mm9UODI1VDQ3bWpMMTl3T0RNakhhSm1HZENjdFhzVVhmb19NclI0NWRiazJlNVBfSnBPRngxNm80YVFwV2c?oc=5",
-          "published": "Tue, 24 Oct 2023 11:49:06 GMT",
-          "source": "etnet 經濟通"
+          "title": "港股推薦｜中國石油中期股息連續3年創新高！目標價8元投資策略｜有聲有識 - 香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNX0dHal9fQXprYVhUaUJudldBNGNQVGJtZjI4TjUxa0FuZFNVVFctSm1pU3hiSXpmbjhSMTdFZkhlY2NXVXVMTFlGdHphOW1mMElwRXMwSGZ4dFVEazROVFFnZWZuUUswNHRfVU82UlBvNk5VcUFjZEYwSzNBd1pBRlp6QXJxRnpLUkplaGJBM3h3Y3AzUklCYjJFZmxwRjlNaWFPMHBxTFlUc0pNMnBDTnp5YWc1bC1yOHEyUmxiZV9wSi1ndzZSOTFjQ3RvRmFoYnZkYWJ0eE9lN1NMcjJZV1N5Y1E3X2xlN0ItVmRTV3lkeTVMdGc1bEZzRnJKbzY1UldSa1F1a0VKVmpRdERTQkRyTWgzS2Q0TExDTlBpai1Ya296Yzh3UlJoeGZZREhwY2d6cEZ5RWNBTXFjNURvOTl5b2V0a2t0WC1JdXlJUVRRS1BsbW44czhWYWROT29PNGc?oc=5",
+          "published": "Thu, 29 Aug 2024 07:00:00 GMT",
+          "source": "香港財經時報HKBT"
         },
         {
           "title": "PetroChina (SEHK:857) Stock Trades Below Fair Value After A Very Large Run",
@@ -394,10 +394,10 @@
           "source": "Capital 資本平台"
         },
         {
-          "title": "2628業績丨中國人壽首季盈利跌32% - 信報網站",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUVZ2T19ZWThhRXpTNmp3YWNpeWk0UW5GS3hYdlplU0lCREZJZlFYVTB4b2ZDWWVHYklIMmpEUUtteEo4dUg3TkQ0dU14d3dTeTdoaXVLanlJNkloV3ZqeVA1Y0hQLTBYeUtJajZnMUVZbWxVNVVkV0stdXFWQlBDQVlKajdfam5CT2xFSDlIVF9iWEd1M0IyOGpkV21OWFBNS3pobExsaVhTMnJGenFkTEdhTk1YbFFXSXYwVEg0Q1NMdHBhSFgzSGVTRkkxMl9HTUxqZ2RrQ2dtR0NWbTVILV81VTVVX3Mxb3p4UEVJWHQxRExRVjZyTmUxM3RYN2RWMlZIMXozM1BUQmc?oc=5",
-          "published": "Wed, 29 Apr 2026 07:00:00 GMT",
-          "source": "信報網站"
+          "title": "宏利金融－Ｓ (0945.HK) 股價、新聞、報價和記錄 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3ektieXI2aFBTc1RkQ3lWWmYzOFd2MjVBNUpEMWZEYnJjY3hPZVM1Q0Z1OXI5Q1F6Q3UxRU0tcGZuMUpQVEFkSnNhRXFINVMyMTB3a3BR?oc=5",
+          "published": "Mon, 22 May 2017 21:20:31 GMT",
+          "source": "Yahoo 財經"
         },
         {
           "title": "中國人壽將出資30億元成立合夥企業投資健康產業 - 华尔街日报中文网",
@@ -565,6 +565,12 @@
           "source": "香港財經時報HKBT"
         },
         {
+          "title": "Alibaba to Add Data Centers in Europe, Middle East in AI Push",
+          "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-add-data-centers-europe-015911428.html?.tsrc=rss",
+          "published": "Wed, 23 Sep 2026 01:59:11 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Alibaba Group Holding (BABA) Is Up 6.4% After Major In-House AI Chip And Cloud Investment Push",
           "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-group-holding-baba-6-232509955.html?.tsrc=rss",
           "published": "Tue, 22 Sep 2026 23:25:09 +0000",
@@ -574,12 +580,6 @@
           "title": "Alibaba Just Unveiled an AI Chip 3x Faster Than Its Predecessor. Nvidia Has a China Problem to Watch",
           "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-just-unveiled-ai-chip-221410155.html?.tsrc=rss",
           "published": "Tue, 22 Sep 2026 22:14:10 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Sector Update: Tech Stocks Gain Late Afternoon",
-          "link": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-gain-afternoon-194546131.html?.tsrc=rss",
-          "published": "Tue, 22 Sep 2026 19:45:46 +0000",
           "source": "Yahoo Finance"
         }
       ]
