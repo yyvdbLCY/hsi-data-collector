@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:01:05.467902+08:00",
+  "updated": "2026-09-23T11:01:13.405751+08:00",
   "news": {
     "0005.HK": {
       "name": "匯豐控股",
@@ -58,12 +58,6 @@
       "name": "建設銀行",
       "items": [
         {
-          "title": "傳港證監會突擊搜查兩家中資券商 疑涉IPO違規帶走文件調查 - exmoo.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRlNVZmRmWHY5a0syV0Fzd2JTMXRDR1YzTEFXWDhvNzVyd0NKbzJRWlRNZjRQUHBOMkxHamtJaHlHSzg5aEFHZWhxN3lycEE0RHk0?oc=5",
-          "published": "Thu, 28 May 2026 06:09:33 GMT",
-          "source": "exmoo.com"
-        },
-        {
           "title": "【龔成專欄】一星期股票分析0939.HK 有質素的內行股！建行股息率達9% - Esquire Hong Kong",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFMmtqMnBjOTJlZ0luT0xYY2pYb2oyNjM4MmNvSnZUNU82LXVkNnhCWnF5SVpIZ3FrMWFsdUpXQWo0cmpDVjJyeHJ1b0RvclBGNm5pVHEzRHFPN3AyV3U4NWpkRXFqMVhwZGw4bmpuZ2pTZkU4dURQcHl6Xy1LQjA?oc=5",
           "published": "Fri, 14 Oct 2022 07:00:00 GMT",
@@ -86,6 +80,12 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rSkFwdktvRVk2a3VxYnVxY1B4ZzVwWnZJcXZXdW5GUm93bGVuWWJkZmt2d1NLTU90dU5XRTM4dklQRVp5cDFlQlhZSkp2aVRNNEFuMzgwaWdaSGZEcnpJ?oc=5",
           "published": "Thu, 24 Apr 2025 07:00:00 GMT",
           "source": "Quamnet"
+        },
+        {
+          "title": "港股推薦｜建設銀行派息比率有機會增加！目標價6.6元投資策略｜有聲有識 - 香港財經時報HKBT",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOZzVURy1YLThhd3BOQ1ZPcHVjZ0FRSEpBWlJvUGFSRm9JZE9kUDQ1ZHBzUHNZYW82dW5JY3dZb2dKMmkyNEZiWHIwdXRjNUtBLTJHZTNZTEwyLWFYQS15Um5XeHNMSHBXZ2tCSjQ0Rzg4THRpVmVRZVJicWdNUGkyRzZwY0ZhQnZvOElhSGR0clNtMFNQX3ROOVg2d3pFTWxaR1hTdWVlS3prVGk2Q2F4VmdlYkhtZkx3MkkwenVSbGUtdFNBMDNmUE9IMVNsUFJjVFlpdnR0clNjYWNWemk0dE1GcFd1VFFwa0ZKQzcta1Iwb3R4VFRrQ1AySUZKZUhaRU1UY1ZVLS05X1Rpbk15YnFaX05GRjBaNlVWRTAtT01INkdWbUFVOGVfaGsybXI2M3NWLWVfRVJKd3g4d1FZU2NGSVBuZ0wyVVB4dnRWWWFBN1dCUTVFNG96WHAyRGZMSEE?oc=5",
+          "published": "Fri, 30 Aug 2024 07:00:00 GMT",
+          "source": "香港財經時報HKBT"
         },
         {
           "title": "PBOC vows to curb ‘involution-style’ competition in China’s financial sector",
@@ -111,10 +111,10 @@
       "name": "工商銀行",
       "items": [
         {
-          "title": "收息股2026│盤點20隻高息股 派息高達7厘 入場費股息率持續更新 - 香港01",
+          "title": "收息股2026│盤點20隻高息股 派息高達7厘 入場費股息率持續更新 - hk01.com",
           "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNOWlVcy1Jb3BpZTBiZUZyZldLcGZ4S0QtZXhyeFhERV9mb255TGh1em5kUmFGSXdkcDkzQUZzekVRRHA0ckZZdHhmRXVMZ2hudHA2c1BCYjlHTGdEbk9LSzZEMkJIVE1YaTBOTDRtOG9sY3puU0I4NTR6LVQxbUxBSWFBVkVydHAtVUpmY0RNbThJNkpCTE5sNU1oUS1ha09LbDNLNkUwRTRnQTZKNEJueGE1OE9hZEZidzlKRzV1OXBnTGJqZFJUS1NBQmZxVXFZRW8yRElab1VfNGx0cGpGaDFDYTFOZkxxaFgycXNKVDNNMzJ1YnJ0T2hGYzV5R01aSG1CVDJDY3pFYldfdUF3TXU4bnFxSzI4LWdRZWN3Y3JPVXRpNlFIYzZIUnJidVRfXzJVQ09vcnIwcTNOZ1NoRHk4cjE1SC03c3NtVnZBQnJreG5VUWlkRm85SXN2Njc1QWZWM18xX3FHTkdIbVNpYVkzS0xNUlFmcFZGb1ZlNGRUYXpiam1wU3dJc3ZaQ0JWVUkzMEFRUQ?oc=5",
           "published": "Fri, 18 Sep 2026 03:52:41 GMT",
-          "source": "香港01"
+          "source": "hk01.com"
         },
         {
           "title": "工行的年中答卷 57萬億資產的數智進階 - 香港商报",
@@ -164,10 +164,10 @@
       "name": "港交所",
       "items": [
         {
-          "title": "港交所(0388.HK)：香港五年計劃支持港交所多資產戰略 - Moomoo",
+          "title": "港交所(0388.HK)：香港五年計劃支持港交所多資產戰略 - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vMUxVZ0ZnLTlHaDFxdllOUnNzWVN5YUJYN2phY0E5RjhrVFF5MnZRS080cGhqUElPS1FKck4xa0FsX05lSng2UEpWd3FuMEVpNVlQUGRtV3M5Zw?oc=5",
           "published": "Wed, 16 Sep 2026 15:48:55 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
         },
         {
           "title": "港股市場｜港交所研延長交易時段 擬提早至早上9時開市 取消午休 研增晚市配合美股 - Yahoo 財經",
@@ -188,10 +188,10 @@
           "source": "香港文匯報"
         },
         {
-          "title": "港交所2025業績狂賺177億！重奪IPO一哥，0388現價仲抵買嗎？ - businessfocus.io",
+          "title": "港交所2025業績狂賺177億！重奪IPO一哥，0388現價仲抵買嗎？ - BusinessFocus",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOelpNb2FvVUg5QWpBUjRNbDBqY3JFN2Nsb0szdFRlT3FFT3RsTXVkZDJ2b3N0eENKWGQ3dGVDYi1wWmVLUERRdGNxc1I4bG9YSC1vR093c1c2YTF5QTNFaUNrTW9vTjNNU3lrc196cEM5LUxNWmxzS1pqa0E2ODVUQXFveXgxVENla3RQQXB2aDB1RC1iekxhekVlSWtZOFhDenl4bkhoM0FkU24zaEJoRTk3Sks3Z0pGdlJOZ25HQ2pmTGpF?oc=5",
           "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-          "source": "businessfocus.io"
+          "source": "BusinessFocus"
         },
         {
           "title": "Hong Kong Exchanges and Clearing Ltd (HKXCF) (H1 2026) Earnings Call Highlights: Record Revenue ...",
@@ -218,8 +218,8 @@
       "items": [
         {
           "title": "00941 中國移動 - etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zWi1PQ1k0SVpxUUJkOXdiTFRBUV9iMWRDS1lFdFA5RDh5dm9iYXFjV0d5b0M2SnpDZjRYWE9ydWVXLS1PZlRRT2ZXMk1seHhISFUtanBqMlU5VlVIX3dWQ0tldWxTV3NBMnVZUEEtZ1dONkU3a1BJeA?oc=5",
-          "published": "Sat, 19 Aug 2023 12:52:27 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XcWtCaVBSVlIxQlV0NDJUTzI1aWFwNFlrdXl6ZXVES3JIRExhOGk4N1IzNkUyM1lCWXBRV2phV0V5SlpLa0Jpb0lKcV81SmZxdHAzbDBtUFYzNWpZZElWblFiM0piQVlPMS1wRmhBR18xbjRvaEE?oc=5",
+          "published": "Sun, 05 May 2024 06:28:03 GMT",
           "source": "etnet 經濟通"
         },
         {
@@ -247,21 +247,21 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "Alphabet (GOOGL) Stock May Be A Bargain After Privacy Fine",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-may-bargain-011402689.html?.tsrc=rss",
-          "published": "Wed, 23 Sep 2026 01:14:02 +0000",
+          "title": "BRAHMA AI RAISES $150 MILLION ROUND LED BY MULTIPLES",
+          "link": "https://finance.yahoo.com/technology/ai/articles/brahma-ai-raises-150-million-023000521.html?.tsrc=rss",
+          "published": "Wed, 23 Sep 2026 02:30:00 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Pinterest (PINS) Announces Visual Search Ads. Can Shopping Interest Bring More Revenue?",
-          "link": "https://finance.yahoo.com/media-advertising/articles/pinterest-pins-announces-visual-search-003258719.html?.tsrc=rss",
-          "published": "Wed, 23 Sep 2026 00:32:58 +0000",
+          "title": "Rocket Lab CEO Puts Iridium Deal Alongside SpaceX And Amazon’s Spectrum Bets: ‘You Can’t Just Magic Up Spectrum’",
+          "link": "https://stocktwits.com/news-articles/markets/equity/rocket-lab-ceo-iridium-deal-spacex-amazon-spectrum-bets/cZMEhNCRB7n?.tsrc=rss",
+          "published": "Wed, 23 Sep 2026 02:28:22 +0000",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Review & Preview: Musing Over AI",
-          "link": "https://finance.yahoo.com/m/105cc8ee-f464-3780-a004-04850029c88e/review-%26-preview%3A-musing-over.html?.tsrc=rss",
-          "published": "Tue, 22 Sep 2026 23:55:00 +0000",
+          "title": "Dow, S&P 500, Nasdaq Futures Climb Amid Iran Diplomacy Hopes, AI Rally: IONQ, VKTX, INFQ, BB Stocks In Focus",
+          "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-amid-iran-diplomacy-hopes-ai-rally-ionq-vktx-infq-bb-stocks-in-focus/cZMEhQVRB7N?.tsrc=rss",
+          "published": "Wed, 23 Sep 2026 02:18:08 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -282,22 +282,22 @@
           "source": "富途牛牛"
         },
         {
-          "title": "港股異動| 中海油(00883)盤中跌近3% 機構料公司上半年盈利或低於市場預期Q2原油實現價格折讓擴大 - Moomoo",
+          "title": "中海油(0883)：低成本結構+產量增長 大戶資金看好後市｜彭偉新 - hk01.com",
+          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNc3VTZHdmRXp3VC1MNHhxYTZfV1BrYjBGTHpnaWdTUnhRTzI0bldYVGkwSV91YlN3VTZLeV9Gdm5FSjNwakFwM0hPTTFsQWVfbHRqQWRyRnFqWHY2Yno0ZjEzOFFXRkdCYXhKRmI5UGotejI1a000X0Rqc1hZR0JqN0pfUnlDNjN3enJqQzlqRl9VMWd3WHBKRnN1WG9nTjVMUmRNdGxXa0pnZjI4bzFVa1YzZjhNeG5FaVNocjJSVkpnZVUtS2VXQ3ZZVkhrSzNSTWxxQVF2SXY0emcwTXEtXzc4dnI4aXJRbTZEM09wVHhndzJ3a09ZQm56dDBzV3JQdkROUGprZ1NWSGNsZzliUXUxMEJQZWNmSzd1Wmt1dm85S3p2bnJoSlpCSFNSZHhMbGdyZ1NjSGtZSmpQd3MtbW5JeklkWlloa3FqUUFMMkxLQ291WUlfdU1kY3BjS2djaE9Ya2dCdFpsSEM0OWZaQjJxUk1Pbm5zMF9CTlhyeUtfbzZZOHlfbFB0RmxMOEdYdkNHMzZn?oc=5",
+          "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+          "source": "hk01.com"
+        },
+        {
+          "title": "港股異動| 中海油(00883)盤中跌近3% 機構料公司上半年盈利或低於市場預期Q2原油實現價格折讓擴大 - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVhiamIwbldOWWMwdUg0Uk9CWGdmYTlqZkJlTW1ESG5OZjg0WE91a1RGejVYMnNyZmNNcm4yZ2ZVNlJhOWl4RHZ5WnppQ1JvVDhiM1UyLUpITnFKbXZILXNqdVNLODBOYWV1NUdWM1l3MnpjY1ZzMHA2blBKYUYwUHg3YnlxTFJFTHZpLV9FQnJmTkNDOG5ubUJRQVVGRElsQVRQOE9n?oc=5",
           "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
         },
         {
           "title": "港股異動| 石油股跌幅居前中海油(00883)跌超3% 美伊或重啓談判國際油價大跳水作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VUpuODZ6RWRfbDNEcGtlN2g4Rm02RlBaV1U3YWkwTGR6RXFDb3ByZFA5cHNtc2dZSVFrTHJvQ0VhTkFJbDlsbVNoLU9Ed2VKQkwydDlkTGZLU3VXd1A5c0JGbFpxUnJ3SUVJQ1NJSi0?oc=5",
           "published": "Wed, 15 Apr 2026 07:00:00 GMT",
           "source": "Investing.com 香港 - 股市報價& 財經新聞"
-        },
-        {
-          "title": "中海油(0883)：低成本結構+產量增長 大戶資金看好後市｜彭偉新 - 香港01",
-          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNc3VTZHdmRXp3VC1MNHhxYTZfV1BrYjBGTHpnaWdTUnhRTzI0bldYVGkwSV91YlN3VTZLeV9Gdm5FSjNwakFwM0hPTTFsQWVfbHRqQWRyRnFqWHY2Yno0ZjEzOFFXRkdCYXhKRmI5UGotejI1a000X0Rqc1hZR0JqN0pfUnlDNjN3enJqQzlqRl9VMWd3WHBKRnN1WG9nTjVMUmRNdGxXa0pnZjI4bzFVa1YzZjhNeG5FaVNocjJSVkpnZVUtS2VXQ3ZZVkhrSzNSTWxxQVF2SXY0emcwTXEtXzc4dnI4aXJRbTZEM09wVHhndzJ3a09ZQm56dDBzV3JQdkROUGprZ1NWSGNsZzliUXUxMEJQZWNmSzd1Wmt1dm85S3p2bnJoSlpCSFNSZHhMbGdyZ1NjSGtZSmpQd3MtbW5JeklkWlloa3FqUUFMMkxLQ291WUlfdU1kY3BjS2djaE9Ya2dCdFpsSEM0OWZaQjJxUk1Pbm5zMF9CTlhyeUtfbzZZOHlfbFB0RmxMOEdYdkNHMzZn?oc=5",
-          "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-          "source": "香港01"
         },
         {
           "title": "CNOOC Limited Achieves Strong Start with Dual Growth in Production and Performance in Q1 2026",
@@ -376,10 +376,10 @@
       "name": "中國人壽",
       "items": [
         {
-          "title": "中國人壽保險2025年利潤增長44％，收入增長17％；香港股市下跌6％ - Moomoo",
+          "title": "中國人壽保險2025年利潤增長44％，收入增長17％；香港股市下跌6％ - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGRmcUZiTHdvNHVJWTlBS1hUQ1lFalB6czFWNVQzMmNaLUJCR21leWpZbjFZTjhmT3NsZHF1Rk01Vi1uQWpKUkdvaTd6dlQyR2hvTVVCUnFEWjBRUzV4NnpSakFkVkpvejdRWkFPckRxbk1zOERXc1hFanNna3RVamdWM0dmMHRUN3VvOVdVd1hFYVNwNkJZYWd4R0tRMldmRk4xVg?oc=5",
           "published": "Wed, 25 Mar 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
         },
         {
           "title": "中國人壽與其他合作夥伴將向雄安新區投資人民幣80億元 - 华尔街日报中文网",
@@ -394,16 +394,16 @@
           "source": "Capital 資本平台"
         },
         {
+          "title": "宏利金融－Ｓ (0945.HK) 股價、新聞、報價和記錄 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3ektieXI2aFBTc1RkQ3lWWmYzOFd2MjVBNUpEMWZEYnJjY3hPZVM1Q0Z1OXI5Q1F6Q3UxRU0tcGZuMUpQVEFkSnNhRXFINVMyMTB3a3BR?oc=5",
+          "published": "Mon, 22 May 2017 21:20:31 GMT",
+          "source": "Yahoo 財經"
+        },
+        {
           "title": "中國人壽將出資30億元成立合夥企業投資健康產業 - 华尔街日报中文网",
           "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNUTRFUXlVYlBJTjAtVjZySjdaLWs1UXgwbGNNMEl4Tzd2OXhzSV9kbmh2dzJYS0NmYWpSbmVRQ2txMjZLNXV2Q0JqN2JHUzNqd1dDa3UxMUdNeE5EeVZtc0R6dGYwU1pxUVRTUUdLM2dQU1dyQUpvTXl2ZDRrbzJnVVI1cnlsNXg3UFFkTDEwa2RzN1E1RFJoSGdIUGNmaGF1bTA3XzVkQm9NMy0wZXh6YXZicXh1UmF5Q09UVHhjVklPWE5VU191Z1JxM1E0ZmNETE9XZGtSajhLSS1KX1RSVGo4UWtQNWJ2ODdmTmEzSDRsZEc1bFF2V2lHeGlZcmdOOG03bV9kLWhST3dRd0pXb2x6QV9DR19KZGxhX2xuQ0NucWF2dkVLR2JnQW9yM0JWYkNGWkVsWmlzRVYtX05SQTF5REZQWUo5dVB2M0laLXpIdw?oc=5",
           "published": "Fri, 23 Aug 2019 07:00:00 GMT",
           "source": "华尔街日报中文网"
-        },
-        {
-          "title": "金融公關集團攜手獅華公關「再創高峰」 - Media OutReach Newswire",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQVUlQTXNpRnRmLUR1eFB3aWE1dGF2Q1VZcXJJRlEwZGU2V1g5TnRMeU85SGY4QV8zaGhyTlZlLVBlOG1QS1B1SkFjWnpiVEdEaC1YQWJEbUF4Qk9fNndpZEJOd3Z2U3dTc080ZXhOSFZZdEdHZFRnek8wM3pMS2VBVTJVaTEwOHRrZ0RpQ3llS1pKaFoyVXBYZ0NOendOR001a1BlYW52all0YUJwUFpBVHVoelNWY0Rlb1QwQVQ1VU4zOWNfS0c5eHU4MXpHTmZCcVd2dDlraUVfV1NjeHNCRFJqOW96ZHozWXR1b01UU1phNlNTM2pDOXlNUkF3Z2wwMExScUFnYnctQ0l1NnlsYzl2X3dzNXVMUV9qdjJnbGpnWmRfNVVfTUlKVnR4STE5S3RYYVhUX0ZkSUZrLW51aXpsZi05YW9FVjBN?oc=5",
-          "published": "Fri, 07 Jul 2023 07:00:00 GMT",
-          "source": "Media OutReach Newswire"
         },
         {
           "title": "Matthews China Fund's Strategic Moves: Spotlight on China Life Insurance Co Ltd",
@@ -435,27 +435,27 @@
           "source": "华尔街日报中文网"
         },
         {
-          "title": "摩根大通將以4.1億美元收購招商銀行理財子公司10%股權 - 华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOMGZrRFJuVUFGcjZZNGh0aHpabXQ2b0pqZWdJTWQyU3pFQlVsU1FPN1FHYnJEUFg2clVaNVlvRzFUU0t6ekp3TExmQUs2X1Z4bXMyRjRYaTQwUURFYWhRT21yZ1ZLanhLWTBsTWdCeFZkU1l3NnQzQURueGpfbGxYcGJFVDFwaFVHdE5rM2dCMmdOcmtEWFlCMmNSbHpMMktWbXFta0VsZmlnY1FRMG9nR0NRaXZjLTk0Zm5YUk4tWGpzY2pETVdqQ3NDM0MxMWJPdXhnN2EtdU9YYkhvcFN2Y1JudXlRZ01pNjJqYS1WektNSWIyTVl0NVR3bEJNc1U1QnJ4RFVLTVdZcjg3VUtYWWdwTXFOa2hLZmIzNXZ0YVkybUlzbVNaNXhra2h1WTJpSEVGS1ltT1dBMWx0ZE9PTlB2SDR3STZCRXM5RHlZVm52M2ljT0o1b1QxV1BZRm1R?oc=5",
-          "published": "Tue, 23 Mar 2021 07:00:00 GMT",
-          "source": "华尔街日报中文网"
-        },
-        {
-          "title": "【人去樓空】《路透社》形容上海自貿區「慘況」：企業撤離，剩「殭屍戶口」 - businessfocus.io",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOUM4VGNiVllxQ0xxeTYxUnd6TVpQX0ZBOEwwYjdUQWlWRmZ2amowdWxseHUxd2xSd2FtVU9vV19CWlhqM29tTWl6djV6akVRSEV2UTR5ZUdxUXZYYlQtSlhHRkJDdDhWaGI0b3NZVHd2clIwZmh0S1BvOFZMaVhra2d1aHJpR01fMXhvQk1VVkNmODBFTGl6LVo0MnROb0Y3alhvZ3RTX3dyLUJqWDA5VVJfc2NsX0MyX1FoSjVma0hsZ3lRczV5UmE4WDlCZGpaQWxPUG1QWklkamNIOVhCQzh2UjhtWG5iMXFNd1hNZjdkNjFJeHlzcDNTTVJHY2kyRXpMWklIWXk5OF9QQmlOUDR6X2FySkg1R3hFeHJ4Q05aaGszRFk2dmtXV3JVWDRQYjBKdS1aN3JBdWtyQU4yOTBzMW1ZUXBQMnNqMGtIMGQxMXNxZW50WmlrRGx5UWRsQnplcmdhX1hCZzNNSjQ4Rmh2UndsQ2NQWmZla0JRelV3VFdyYXc?oc=5",
-          "published": "Wed, 04 Sep 2019 07:00:00 GMT",
-          "source": "businessfocus.io"
-        },
-        {
           "title": "平安銀行和招商銀行交易員因操作失誤被禁止從業一年 - 华尔街日报中文网",
           "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPZVB6LUJBNnJkcUVENkh6UFo5ZEo3bkRFamZVZDk1TGo5RkRQUjlzV2FRNmFoUHFBejVVMEJkS3lJTUxCV3B0a3owNVRGS21qSHZjNzdWTW9DSHZUc05KazhsOXJsaU80ZEE4TWI4UERYSkx5SERPYUxJcklrNERRQW5wRWJNSThNcTZPX0RLcE9EUTlZWVBxYmZncHN6MGZ3VjFhdmhHTVBFdUxUY2syRmNRNTQzd3F3bG0tLXJ4eE9NY1pwcDBKd0QwUUMzNkR3aUNBYnRGQUZDaWZSa2oycXhaTndtQXZaeXY3TXhGaTNKTTZzaGlZaDN2cjFSZlo1OUdtYXdGRzFtVUNBUFFLclFoeTZxcUxoVS1zd0hUcHFZOENwVGlrOEtQSFM5anNPOWFRUXFRMUFrYXh0YlBMZlYwekxQa0lrLXAzenE3S1pKbDR3dU43UHlJSDdZN2lVbnZkelA3Z2xmR21kMUFxZUlTbw?oc=5",
           "published": "Mon, 08 Jul 2019 07:00:00 GMT",
           "source": "华尔街日报中文网"
         },
         {
+          "title": "【人去樓空】《路透社》形容上海自貿區「慘況」：企業撤離，剩「殭屍戶口」 - BusinessFocus",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOUM4VGNiVllxQ0xxeTYxUnd6TVpQX0ZBOEwwYjdUQWlWRmZ2amowdWxseHUxd2xSd2FtVU9vV19CWlhqM29tTWl6djV6akVRSEV2UTR5ZUdxUXZYYlQtSlhHRkJDdDhWaGI0b3NZVHd2clIwZmh0S1BvOFZMaVhra2d1aHJpR01fMXhvQk1VVkNmODBFTGl6LVo0MnROb0Y3alhvZ3RTX3dyLUJqWDA5VVJfc2NsX0MyX1FoSjVma0hsZ3lRczV5UmE4WDlCZGpaQWxPUG1QWklkamNIOVhCQzh2UjhtWG5iMXFNd1hNZjdkNjFJeHlzcDNTTVJHY2kyRXpMWklIWXk5OF9QQmlOUDR6X2FySkg1R3hFeHJ4Q05aaGszRFk2dmtXV3JVWDRQYjBKdS1aN3JBdWtyQU4yOTBzMW1ZUXBQMnNqMGtIMGQxMXNxZW50WmlrRGx5UWRsQnplcmdhX1hCZzNNSjQ4Rmh2UndsQ2NQWmZla0JRelV3VFdyYXc?oc=5",
+          "published": "Wed, 04 Sep 2019 07:00:00 GMT",
+          "source": "BusinessFocus"
+        },
+        {
           "title": "中國農業銀行支持的特殊目的收購公司申請在香港上市 - 华尔街日报中文网",
           "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxObkJELXpwU3h5bUFDeDRwNlgycGJ3dGd5emt1YUdUdWtBdDBxUUd3cFNKSGtFUDVxZ3N0bzRTeEd1WFlyWXJaSzFOeHdDX01FV3g1VGE3U0djRWNSMnV3OEUzUDhNSk00a3BKZkdIZWduNHdJRWtmb1pJUlMzYVFFMXBSVFRVc0F1Y2lFOGpmNG41bWFCUFZHZVczSXZkaTN2RThrU2Mtd2lNRkJTaHVCMHNuSFBDclF6U3dYM2dlbS12aDhNS1JhbnhobXgyaHVmai0tbkI0YkFnMmJjZTBVckdJc2tRZmM1UDBiakcyZUVhNWZnYU91LXJNUHZXTHZSZ01TYjJrT0tvc0kzQ2g4bU4tRUVFWjUyZDJqUzlkR3ZtcWtRd0ZlaVZfcG0wU0lqbmNtQlNJYkpNaXpQN096MDFZbGFUODRpc1hKNENmalRRUjBuUlY3T1BqVUk0SlhrR0JTUzdYMS1wWUFIV21ldHNWbw?oc=5",
           "published": "Tue, 01 Feb 2022 08:00:00 GMT",
+          "source": "华尔街日报中文网"
+        },
+        {
+          "title": "中資銀行業務轉型並非萬全之計 - 华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JLV9ZaFk4OGw0NjI3N3p2aUJIM0RGc0NwZ2ZTd054Q1FwZXM1ckwwRkdVV2JZMHBoVTMwYTMwQ0hHSUdQaEJjcGhobGxYNmVWY19uYnRQVWZBc0NFRXc?oc=5",
+          "published": "Tue, 23 Jan 2018 08:00:00 GMT",
           "source": "华尔街日报中文网"
         },
         {
@@ -472,7 +472,7 @@
         },
         {
           "title": "Thunes and UnionPay International Launch Instant Money Transfers to China's mainland",
-          "link": "https://finance.yahoo.com/news/thunes-unionpay-international-launch-instant-080000262.html?.tsrc=rss",
+          "link": "https://finance.yahoo.com/news/thunes-unionpay-international-launch-instant-080000888.html?.tsrc=rss",
           "published": "Thu, 22 Jan 2026 08:00:00 +0000",
           "source": "Yahoo Finance"
         }
@@ -494,10 +494,16 @@
           "source": "富途牛牛"
         },
         {
-          "title": "最近港股弱勢的原因㊙️今天反彈的理由更新‼️ - Moomoo",
+          "title": "最近港股弱勢的原因㊙️今天反彈的理由更新‼️ - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2k5bk1RVVdQMWdSamFxa2VPdTc4cHAtQmo3UHl1UWhMN0pFQTI3WmNVdXNJYjNGVURSVzFISkN5NU1TdE5lWGc1aEFkcnJ1VEJaM2Z2Tm5DMmFIdHBDR0pXNWpURE9IX1Y5X0lBWURXZDlQTExpVGx6X1p4WllzaWoyQXRlWEFPOUVYT2MwMUJ3Zi1lVWZQdWxCQ0M3NF83ZDBCcnZCN3VrZUh2bUZ2WVJSUEtwaEU?oc=5",
           "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
+        },
+        {
+          "title": "財經｜恒指最新跌幅破1000點 騰訊(00700)跌逾15% - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNm1NT25MVTZKQ3llZlV6LWJJZWtONlpLZlc3T3RESURjOEd4U2RGcjM2Yi1zMWN0VmFQVXYwR1k4NF9NVk8tYUgycE5yT0ZRcEVBcEliejZxR1FfeVFlcHN2b2dpV3ktYVl5cGZQeHZoMDc4clFmbk8teGJNY0pCSlRqRGYzQi1CTm0xNDRNX1BEMmpSTGFpVkZfX2VfbHg2ellnQ1VwNXNqOV9Qd2FwVXpoZWR5bXhWYzQ3UGZHTk1NRGFkektRWVVvbl9FWm0wTFViaDdiY1NROTNDcWZrU0h1NDd4Q3lWMXY5c1U5bkQxeG9QSVJqU2c2akg2bFFCcDlkNjd2dFFaV1ZIbVowX01ubXl5UU90ekE?oc=5",
+          "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+          "source": "Yahoo 財經"
         },
         {
           "title": "0700.HK 港股報價| 騰訊控股| TENCENT | 香港即時股票股價- etnet 經濟通|香港新聞財經資訊和生活平台 - etnet 經濟通",
@@ -506,10 +512,10 @@
           "source": "etnet 經濟通"
         },
         {
-          "title": "港股ADR預計恆指下周一高開366點 報26,527點 - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNb3dGaE9qRGdqRW5DenQzN0pZdFlDem9UZF8wcmhqVVFEVXdqeVRBa0FIU1U4bDVzVkd3R0dndXZqNnpHWlVCRmVKMzh0aDlfMXdydXdZYlZ4TlN4R19QSUd0T3g2ek5iTnFDUTRyZVhGV1J2MmNoTEVTVnM0dktvbGVEcVZBM1RxY3R6TXViLXVOWjZMYUNZWkR5anp3X0c0RVhBemZEVXhkWUNZWmNMMDBJSDJnd2JPajNOaXVGZm95NGZfZHlYMjNTSFlpR08yaGFLTDNEeTNNRzBCSjdPOXRONWdJbXJ3bDNXUkZLRXJ3WVYzOWl2UmVPQXQzYUVMdEpubnJhZ0tOM1Bh?oc=5",
-          "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-          "source": "Yahoo 財經"
+          "title": "Tencent Cloud Launches Tencent Cloud DataBuddy, an Agent-Native Data + AI Workbench",
+          "link": "https://finance.yahoo.com/technology/ai/articles/tencent-cloud-launches-tencent-cloud-020000767.html?.tsrc=rss",
+          "published": "Wed, 23 Sep 2026 02:00:00 +0000",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Tencent Stock Jumps After New AI Model Takes on Alibaba",
@@ -521,12 +527,6 @@
           "title": "Wall Street Cues, Tech Strength, Easing Oil Bills Lift Asian Stock Markets",
           "link": "https://finance.yahoo.com/markets/world-indices/articles/wall-street-cues-tech-strength-104644783.html?.tsrc=rss",
           "published": "Tue, 22 Sep 2026 10:46:44 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "How Tencent’s W4 Games Godot Partnership and Funding Push At Tencent Holdings (SEHK:700) Has Changed Its Investment Story",
-          "link": "https://finance.yahoo.com/technology/ai/articles/tencent-w4-games-godot-partnership-101432336.html?.tsrc=rss",
-          "published": "Tue, 22 Sep 2026 10:14:32 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -553,10 +553,10 @@
           "source": "富途牛牛"
         },
         {
-          "title": "🔥 阿里巴巴和小米因投資者樂觀情緒重燃而強勁上漲 - Moomoo",
+          "title": "🔥 阿里巴巴和小米因投資者樂觀情緒重燃而強勁上漲 - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTk2UkI3VE9ETE9kQktRZ3U4ejFWTVBETnBMRUktZ0ptTEtqMGEwVHBFVDJrQkk0NmtWd0trX2hHcllGTUM1dGdsU2Jia0NRNEZBOHRUYU9sdXl5YTFTOFNBc2w4NFhUcDZJQ0s4R2RDRGVXS2lWMDU2YlB3M1FMdGtzVUQ0b0E4Y0E2eFZVODBtZGs2QTF6WjM0R2ZxdmZoT2JSNFdNeUZ2OW9SdjlleWppZUtwSEZp?oc=5",
           "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
         },
         {
           "title": "阿里巴巴 股票分析：具備三大利好因素｜中線重估空間廣闊 - 香港財經時報HKBT",
@@ -577,9 +577,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Alibaba Shares Jump After Unveiling New AI Chip",
-          "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-shares-jump-unveiling-ai-180714657.html?.tsrc=rss",
-          "published": "Tue, 22 Sep 2026 18:07:14 +0000",
+          "title": "Sector Update: Tech Stocks Gain Late Afternoon",
+          "link": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-gain-afternoon-194546131.html?.tsrc=rss",
+          "published": "Tue, 22 Sep 2026 19:45:46 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -606,16 +606,16 @@
           "source": "富途牛牛"
         },
         {
-          "title": "Meituan Raised to Add From Hold by China Galaxy International >3690.HK - Moomoo",
+          "title": "Meituan Raised to Add From Hold by China Galaxy International >3690.HK - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlo5eXltdnVCamhlbmJhQjVLazdzRVlEQjR6aklMV2xRbWJHTF80UlplTHZpSmVvZzlmc0pNeG9UOUtLbzFNS3VXWmczWk0xV3JleVBPQ3pscW5PQXVfQktoS3FCM0dZNm80cUlGbjk2V1JkM25ia195R2ZCWEFwMS1ETmRqTWI5THQyOUNtdlc4cWhJX054S2tIUm5Xakx1OEpaT24wQmRGaHV2?oc=5",
           "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
         },
         {
-          "title": "官媒文章籲停外賣戰美團飆13% 領恒指升272點 泡泡瑪特逆市下瀉 - 香港01",
+          "title": "官媒文章籲停外賣戰美團飆13% 領恒指升272點 泡泡瑪特逆市下瀉 - hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOemV2dzNIb01iRVdOTGllUEJ0am5IVUJ4MXplcV9XQVI0eXZwb3Vid1FPRUpQMEs2QW9tZ3Rmd2dUMzZEZDZ5Z2JpVDFKNjc0NkZ3UVVfUWlzMGk1bHpnMHF0amxzcE56dFRaMVBoUjAzYjltRUt4c3A0VHpIZ0tkOHVfVi05VUlvUmd4S3hMMVB1TkhnV3NmeC1HU2h6dTVJR1BCSTc0ZGN6Y1ZjZXlTWTU3VU1ZS3JkRDNpU0JLb01vNFFYOFkxa1BHMC0zeV9pWnNnLV9qLXhpZ0Z3R2phTVJUc1hKOVZsMUZqbDVQUU1rQ3hlaVlKakV4Q0NaTWJ4d1U2VGp5bnJPTF9ubmN6dFJabnUyQ3FrM3VnVzdkcDVCVW5ySnhMTTM1T0JXSE5WeTRZWXplUUlYZkNxUWl0d08zakdvWlloRWNHVjlXLWZuU3EwRk9oTUVZeVJKRDFRdDh0WXRUNjFMRTN3SEwzUmJMOGh2bV9hdFNtWExkb2J6ZnQ5Q1ZjdjBWdXRtUWN1cl8zZEx2MlFqdlBZRklRMmNJaHRONUhVcTM4?oc=5",
           "published": "Wed, 25 Mar 2026 07:00:00 GMT",
-          "source": "香港01"
+          "source": "hk01.com"
         },
         {
           "title": "Meituan (MPNGF) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic AI Pivot Drive ...",
@@ -700,10 +700,10 @@
           "source": "Yahoo 財經"
         },
         {
-          "title": "最近港股弱勢的原因㊙️今天反彈的理由更新‼️ - Moomoo",
+          "title": "最近港股弱勢的原因㊙️今天反彈的理由更新‼️ - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2k5bk1RVVdQMWdSamFxa2VPdTc4cHAtQmo3UHl1UWhMN0pFQTI3WmNVdXNJYjNGVURSVzFISkN5NU1TdE5lWGc1aEFkcnJ1VEJaM2Z2Tm5DMmFIdHBDR0pXNWpURE9IX1Y5X0lBWURXZDlQTExpVGx6X1p4WllzaWoyQXRlWEFPOUVYT2MwMUJ3Zi1lVWZQdWxCQ0M3NF83ZDBCcnZCN3VrZUh2bUZ2WVJSUEtwaEU?oc=5",
           "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
         },
         {
           "title": "港股終止三連升收市跌405點： 恒生指數 暫看約25600點位置 - 香港財經時報HKBT",
@@ -730,15 +730,15 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Online retailer Very Group scraps auction as bidders fail to hit £2bn asking price",
-          "link": "https://uk.finance.yahoo.com/news/online-retailer-very-group-scraps-074700612.html?.tsrc=rss",
-          "published": "Thu, 03 Sep 2026 07:47:00 +0000",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Investors Heavily Search JD.com, Inc. (JD): Here is What You Need to Know",
           "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-jd-com-130003544.html?.tsrc=rss",
           "published": "Tue, 22 Sep 2026 13:00:03 +0000",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "JD.com, Inc. (JD) Laps the Stock Market: Here's Why",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/jd-com-inc-jd-laps-214503575.html?.tsrc=rss",
+          "published": "Fri, 18 Sep 2026 21:45:03 +0000",
           "source": "Yahoo Finance"
         }
       ]
@@ -771,10 +771,10 @@
           "source": "香港財經時報HKBT"
         },
         {
-          "title": "中概股回歸｜網易明起成港雙重主要上市公司 細摩料即獲納滬港通 - 香港01",
+          "title": "中概股回歸｜網易明起成港雙重主要上市公司 細摩料即獲納滬港通 - hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOVTM0dUVXaERtalltUnlkTFNkRTRlbGh0WkpERnc4c0oweDRkcHN2WWx5MWpsdzdheHVtV2tZUV9uX1BKNVJmamRsaFRod3VBLTdBejJQd0M1OGdLX2JpZzJ5S05OWkJsOVFzZEJ6ZUVaemh0UmUtRy1mVVBHejdNOVp5X29TaVh4cHg5R3p1VXNOSzd4Yk5Tb3dWbkZiVDA4NnVWTGxmamZDVzllU2tneV92QkdMQWNmTXZKTXJJRmlrTk52UmNqT2s3MktvTW1wTVM0b1JPVEhNUERCRW1Ca19aS1FlN2NUVTVtTUtBYmkwQVJzTHd5d3U0bHhZY3FTMzUzbDhqNU5jLVlScDNBbEo5bU1ob0prSXJBVFNLamlCd19PRmhFeGsyaEJuRlhUT190Nmk3a2VJU0x3UHliSzFXZVRHWEpzVHdGaGpQSjhLMjljUnZ2WmJyN2pBZkhhUFhSMUdyVGhHdF9scjBqVjR4MTFhelY0UmhLYTVwbzhKTFBKY0hvZ0xoMmFOSG1KSGhYMGt4SW9xRVIyMExsLU9xNkgwejE4WHB2OGM0dTBKVThoRVZhNVhuSFBBcUFxZW9PR2ZUNUM?oc=5",
           "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-          "source": "香港01"
+          "source": "hk01.com"
         },
         {
           "title": "Produced by a World-Class International Team! Adam Fan's Official New Album SKYFALL Makes Exclusive Debut on NetEase Cloud Music",
@@ -806,10 +806,10 @@
           "source": "华尔街日报中文网"
         },
         {
-          "title": "601318股價和圖表 — SSE:601318 - TradingView",
+          "title": "601318股價和圖表 — SSE:601318 - tw.tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pc2tVLTJaZmMwamhUWU5ZLUM0MFZPSS1OdWJ0N1ZKRFhlY1ZuQ2RJdmJITXdRaGVJbTZmTjM3MTMxeHU3MnRQRlU1aDRlTUxvaFE4LUxiX2V3dw?oc=5",
           "published": "Mon, 24 Dec 2018 15:04:26 GMT",
-          "source": "TradingView"
+          "source": "tw.tradingview.com"
         },
         {
           "title": "【平保2318業績】中國平安末期息增8%至1.75元人民幣 郭曉濤：去年初配置黃金 回報符預期（第二版） - 香港經濟日報HKET",
@@ -818,9 +818,9 @@
           "source": "香港經濟日報HKET"
         },
         {
-          "title": "平安好醫生的這3件事 你瞭解了嗎？ - Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQlU2XzVJWG9VdGY5MXZnS01aUU5jRzlGeFlTdjFZZVAxVXYyc2w2eVVQMjZmZ1A4b0FVVjZ4ZVpoY1gwb0FRdm1tNGxHdU05VWwydlV2Rkkwb2ttbTlOYUh1QW5PLW5taHhSY0ZXZUQ4Nm9SbkxCTzFvQmMwV2JXamd0S0h3YUhHeFJjVURyQnZSN3hKS3Nza1lLYVpMa0RlM09kMGdHR3ptazVGN3hETFZQbW9oUHFoa0RXc1N6bjZFNFkwdDZ2V19TclRjSl9mdzgwdkhXOFh3aXIyS1R3REVicUNCSFJfa0FkaGxja1NPcXFSMFRHblI3dXJ2bTFRMVhfUWZxMVQ?oc=5",
-          "published": "Sat, 12 Sep 2020 07:00:00 GMT",
+          "title": "Ping An Insurance (Group) Company of China, Ltd. (PNGAY) 股價、新聞、報價和記錄 - Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PWm1SYTNwNUpPQlhsX1dCaVRTd3gwWUxOUXNuZVg3XzEzYjV5UmVwRUwtNHAtSWFOM0lyRWw0T3FpY3JydmN4cXZacWNXYUV1bG1Z?oc=5",
+          "published": "Fri, 19 May 2017 10:49:04 GMT",
           "source": "Yahoo 財經"
         },
         {
@@ -859,10 +859,10 @@
           "source": "富途牛牛"
         },
         {
-          "title": "如何在澳大利亞購買比亞迪股票［2025年指南］ - Moomoo",
+          "title": "如何在澳大利亞購買比亞迪股票［2025年指南］ - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lZV9WTGRjRTVyVVRFYXNhWVh5cHpzRnBHdWF1dHY3NU05dm8zekNvODVHdDZQbGpVQk1GNW5RZ2RzVHBuc1pHZVVkT1JEbnZsZ1Q4a2lJckt4aW5qMENvc0p0RXl5WGJFbE5jajhmRGN0enE0amtReEpTNA?oc=5",
           "published": "Tue, 19 May 2026 07:00:00 GMT",
-          "source": "Moomoo"
+          "source": "moomoo.com"
         },
         {
           "title": "比亚迪(1211.HK)：海外放量推动业绩增长 - 富途牛牛",
