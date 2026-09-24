@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-23T16:00:59.449891+08:00",
-  "events": [],
-  "count": 0,
+  "updated": "2026-09-24T09:00:54.138607+08:00",
+  "events": [
+    {
+      "date": "2026-10-01",
+      "time": "未指定",
+      "country": "US",
+      "title": "ISM 製造業 PMI",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "未指定",
+      "country": "US",
+      "title": "標普全球製造業 PMI 終值",
+      "impact": "High"
+    }
+  ],
+  "count": 2,
   "source": "hsbc-warrants-api"
 }
