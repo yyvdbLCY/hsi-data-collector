@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T16:00:54.426297+08:00",
+  "updated": "2026-09-25T09:00:55.946323+08:00",
   "events": [
     {
       "date": "2026-10-01",
@@ -14,8 +14,22 @@
       "country": "US",
       "title": "標普全球製造業 PMI 終值",
       "impact": "High"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "未指定",
+      "country": "US",
+      "title": "失業率",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "未指定",
+      "country": "US",
+      "title": "非農就業數據",
+      "impact": "High"
     }
   ],
-  "count": 2,
+  "count": 4,
   "source": "hsbc-warrants-api"
 }
